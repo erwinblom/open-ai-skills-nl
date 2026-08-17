@@ -6,7 +6,7 @@ De kern van iedere skill is een gewone map met een `SKILL.md`. De bestanden in `
 
 Je hoeft niet de hele repository te installeren.
 
-- Voor redactie: installeer één of beide skills uit `skills/tekstploeg/`.
+- Voor redactie: installeer één of meer skills uit `skills/tekstploeg/`.
 - Voor een compleet innovatieproces: installeer de vijf skills uit `skills/innovatieploeg/`.
 - Voor één innovatiestap: installeer alleen de passende skill.
 

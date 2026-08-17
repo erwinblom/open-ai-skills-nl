@@ -18,7 +18,9 @@ Iedere skill is zelfstandig te gebruiken. Samen vormen de skills een werkproces.
 | Skill | Doel |
 |---|---|
 | [De Cliché-verwijderaar](skills/tekstploeg/de-cliche-verwijderaar/SKILL.md) | Verwijdert clichés, lege taal en voorspelbare AI-cadans zonder de stem van de schrijver kwijt te raken. |
-| [De Tegenlezer](skills/tekstploeg/de-tegenlezer/SKILL.md) | Test redenering, bewijs, structuur, blinde vlekken en weerstand bij de lezer. |
+| [De Factchecker](skills/tekstploeg/de-factchecker/SKILL.md) | Controleert dragende claims tegen actuele bronnen en maakt bewijsgrenzen zichtbaar. |
+| [De Structuurlezer](skills/tekstploeg/de-structuurlezer/SKILL.md) | Test hoofdlijn, volgorde en redenering zonder de tekst automatisch te herschrijven. |
+| [De Tegenlezer](skills/tekstploeg/de-tegenlezer/SKILL.md) | Signaleert waar lezers kunnen afhaken, zich ergeren of claims niet geloven. |
 
 [Lees hoe De Tekstploeg werkt](skills/tekstploeg/README.md) of bekijk [het tekstvoorbeeld](examples/tekstploeg.md).
 

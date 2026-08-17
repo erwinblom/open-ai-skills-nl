@@ -4,34 +4,29 @@
 
 > In een wereld die steeds sneller verandert, is AI niet langer een nice-to-have, maar een absolute gamechanger. Organisaties die nu de trein missen, lopen het risico achter de feiten aan te lopen. Het is daarom essentieel om stakeholders mee te nemen en AI integraal aan te vliegen, zodat we samen impact kunnen maken en de organisatie toekomstbestendig naar een hoger niveau kunnen tillen.
 
-## Na De Cliché-verwijderaar
+## 1. De Structuurlezer
 
-> AI is voor organisaties geen vrijblijvende toevoeging meer. Wie toepassing blijft uitstellen, kan achterop raken. Dat vraagt om betrokkenheid van de mensen die ermee gaan werken en een aanpak die verder gaat dan één losse toepassing. Zo kan de organisatie bepalen waar AI waarde oplevert.
+**Hoofdlijn:** organisaties moeten AI toepassen om niet achterop te raken en daarvoor medewerkers betrekken.
 
-De bewerking schrapt de algemene opening, versleten beelden en managementtaal. De oorspronkelijke urgentie en strekking blijven behouden. “Integraal aanvliegen” is concreter gemaakt zonder nieuwe maatregelen toe te voegen.
+**Redeneringsgat:** de tekst springt van een algemene dreiging naar de conclusie dat een integrale aanpak nodig is. Niet zichtbaar wordt waarom losse, gerichte toepassingen onvoldoende zouden zijn.
 
-## Daarna: De Tegenlezer
+## 2. De Factchecker
 
-### Kern zoals ik hem lees
+De passage bevat geen bronnen en formuleert twee dragende claims als feiten:
 
-Organisaties moeten AI nu serieus toepassen om niet achterop te raken. Dat vraagt om duidelijke keuzes en betrokkenheid van de mensen die ermee werken.
+- AI is niet langer vrijblijvend voor organisaties;
+- organisaties die niet snel handelen raken achterop.
 
-### Hardste oordeel
+Zonder afbakening van sector, toepassing en meetbaar nadeel zijn deze claims onvoldoende controleerbaar. De kleinere formulering is: benoem voor welke organisatie, toepassing en uitkomst de urgentie geldt.
 
-De tekst maakt urgentie voelbaar, maar onderbouwt niet waarin organisaties precies kunnen achteropraken of welk gebruik van AI waarde oplevert. Daardoor blijft de hoofdclaim aannemelijk klinken zonder toetsbaar te worden.
+## 3. De Tegenlezer
 
-### Moet worden opgelost
+Een sceptische lezer kan afhaken op de ongedefinieerde termen “achteropraken” en “impact”. Een vakmens zal willen weten op welk proces, resultaat of risico de organisatie stuurt. De tekst heeft daarom een concrete situatie en een keuzecriterium nodig.
 
-1. **“Achteropraken” is niet gedefinieerd.** Gaat het om kosten, snelheid, kwaliteit, dienstverlening of aantrekkelijkheid als werkgever? Kies wat voor deze organisatie relevant is.
-2. **De tekst springt van urgentie naar toepassing.** Er ontbreekt een criterium om te bepalen waar AI wel en niet passend is.
-3. **“Concrete waarde” blijft abstract.** Voeg één passend resultaat of meetprincipe toe, zonder te beloven dat AI automatisch voordeel oplevert.
+## 4. Na De Cliché-verwijderaar
 
-### Sterk en behouden
+> We onderzoeken waar AI onze dienstverlening aantoonbaar sneller of beter kan maken. Daarbij beginnen we met één proces en spreken we vooraf af welk resultaat telt. De medewerkers die ermee gaan werken bepalen mee wat bruikbaar is en waar de risico's liggen.
 
-De tekst is kort, legt verantwoordelijkheid bij de organisatie en vermijdt de suggestie dat alleen een tool kiezen voldoende is.
+De inhoudelijke keuzes — één proces, een meetbaar resultaat en betrokken medewerkers — zijn eerst door de schrijver toegevoegd op basis van de drie rapporten. De Cliché-verwijderaar maakt daarna alleen de formulering concreter en natuurlijker.
 
-### Publicatieadvies
-
-**Kleine revisie.** Begrens de claim en benoem op welk resultaat de organisatie wil sturen.
-
-De twee skills hebben dus een andere taak. De Cliché-verwijderaar verbetert de formulering. De Tegenlezer test of de inhoud standhoudt.
+De vier skills hebben dus verschillende taken: structuur, feiten, lezersrisico en formulering. Gebruik alleen de stappen die de tekst nodig heeft.
