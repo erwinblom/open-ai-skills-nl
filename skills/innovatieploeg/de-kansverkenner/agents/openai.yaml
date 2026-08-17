@@ -1,0 +1,8 @@
+interface:
+  display_name: "De Kansverkenner"
+  short_description: "Vind kansrijke nieuwe producten en diensten"
+  default_prompt: "Gebruik $de-kansverkenner om concrete businesskansen in dit domein te vinden en te rangschikken."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true

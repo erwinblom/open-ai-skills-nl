@@ -1,0 +1,8 @@
+interface:
+  display_name: "De Bewijsweger"
+  short_description: "Beoordeel bewijs en neem een productbesluit"
+  default_prompt: "Gebruik $de-bewijsweger om mijn echte onderzoeks- en pilotresultaten te beoordelen en te adviseren: doorgaan, aanpassen of stoppen."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true

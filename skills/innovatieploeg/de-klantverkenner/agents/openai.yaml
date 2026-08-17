@@ -1,0 +1,8 @@
+interface:
+  display_name: "De Klantverkenner"
+  short_description: "Stresstest ideeën met virtuele klantperspectieven"
+  default_prompt: "Gebruik $de-klantverkenner om mijn productidee synthetisch te stresstesten en echte klantvragen te ontwerpen."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true

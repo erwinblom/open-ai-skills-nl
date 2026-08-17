@@ -1,0 +1,8 @@
+interface:
+  display_name: "De Cliché-verwijderaar"
+  short_description: "Maak teksten concreter en oorspronkelijker"
+  default_prompt: "Gebruik $de-cliche-verwijderaar om deze tekst van clichés en lege AI-formuleringen te ontdoen zonder mijn stem kwijt te raken."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true

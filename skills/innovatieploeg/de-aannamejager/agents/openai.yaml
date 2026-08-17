@@ -1,0 +1,8 @@
+interface:
+  display_name: "De Aannamejager"
+  short_description: "Vind en test de riskantste aannames"
+  default_prompt: "Gebruik $de-aannamejager om de verborgen aannames in mijn idee te vinden en te rangschikken."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true
