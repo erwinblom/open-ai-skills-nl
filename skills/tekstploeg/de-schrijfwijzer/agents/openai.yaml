@@ -1,0 +1,8 @@
+interface:
+  display_name: "De Schrijfwijzer"
+  short_description: "Optimaliseer schrijfregels met echte feedback"
+  default_prompt: "Gebruik $de-schrijfwijzer om uit deze schrijfronde herbruikbare lessen te halen en stel voor wat blijvend moet worden vastgelegd. Wijzig nog niets."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true

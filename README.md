@@ -17,8 +17,12 @@ Iedere skill is zelfstandig te gebruiken. Samen vormen de skills een werkproces.
 
 | Skill | Doel |
 |---|---|
+| [De Hoofdredacteur](skills/tekstploeg/de-hoofdredacteur/SKILL.md) | Begeleidt het hele proces en stelt steeds de zinvolste volgende stap en rolverdeling voor. |
+| [De Uitvrager](skills/tekstploeg/de-uitvrager/SKILL.md) | Werkt een eerste idee één vraag per keer uit tot een schrijfbrief. |
+| [De Schrijver](skills/tekstploeg/de-schrijver/SKILL.md) | Maakt alleen of samen met de opdrachtgever een eerste versie. |
 | [De Cliché-verwijderaar](skills/tekstploeg/de-cliche-verwijderaar/SKILL.md) | Verwijdert clichés, lege taal en voorspelbare AI-cadans zonder de stem van de schrijver kwijt te raken. |
 | [De Factchecker](skills/tekstploeg/de-factchecker/SKILL.md) | Controleert dragende claims tegen actuele bronnen en maakt bewijsgrenzen zichtbaar. |
+| [De Schrijfwijzer](skills/tekstploeg/de-schrijfwijzer/SKILL.md) | Optimaliseert schrijfregels op basis van werkelijk gebruikte feedback en versies. |
 | [De Structuurlezer](skills/tekstploeg/de-structuurlezer/SKILL.md) | Test hoofdlijn, volgorde en redenering zonder de tekst automatisch te herschrijven. |
 | [De Tegenlezer](skills/tekstploeg/de-tegenlezer/SKILL.md) | Signaleert waar lezers kunnen afhaken, zich ergeren of claims niet geloven. |
 
