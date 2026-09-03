@@ -1,6 +1,6 @@
 {
   "name": "de-tekstploeg",
-  "version": "1.0.0",
+  "version": "1.0.0+codex.20260903071553",
   "description": "Negen Nederlandse schrijfskills die een tekst begeleiden van eerste idee tot publiceerbare versie en leerpunten.",
   "author": {
     "name": "Erwin Blom",
@@ -9,7 +9,12 @@
   "homepage": "https://github.com/erwinblom/open-ai-skills-nl/tree/main/skills/tekstploeg",
   "repository": "https://github.com/erwinblom/open-ai-skills-nl",
   "license": "MIT",
-  "keywords": ["schrijven", "redactie", "onderzoek", "Nederlands"],
+  "keywords": [
+    "schrijven",
+    "redactie",
+    "onderzoek",
+    "Nederlands"
+  ],
   "skills": "./skills/",
   "interface": {
     "displayName": "De Tekstploeg",
@@ -17,7 +22,11 @@
     "longDescription": "De Hoofdredacteur kiest steeds de zinvolste volgende schrijfstap. Jij bepaalt per fase of de AI het doet, jullie samenwerken, jij het zelf doet of de stap wordt overgeslagen.",
     "developerName": "Erwin Blom",
     "category": "Productivity",
-    "capabilities": ["Interactive", "Write", "Research"],
+    "capabilities": [
+      "Interactive",
+      "Write",
+      "Research"
+    ],
     "defaultPrompt": [
       "Begeleid mijn artikel vanaf het eerste idee.",
       "Bepaal welke redactiestap deze tekst nu nodig heeft.",
