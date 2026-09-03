@@ -34,20 +34,25 @@ dat de opdrachtgever haar moet bevestigen of verwerpen.
 
 Vraag bij aanvang hoe de opdrachtgever wil werken:
 
-- **Doe het met mij:** voer het vraaggesprek één vraag per keer.
-- **Ik doe het zelf:** geef een compacte vragenlijst of invulblad en hervat zodra
+1. **Doe het voor mij:** maak op basis van het beschikbare materiaal een
+   voorlopige schrijfbrief en markeer aannames en gaten.
+2. **Doe het met mij:** voer het vraaggesprek één vraag per keer.
+3. **Ik doe het zelf:** geef een compacte vragenlijst of invulblad en hervat zodra
   de antwoorden er zijn.
-- **Sla deze stap over:** ga verder met het beschikbare materiaal en noteer welke
+4. **Sla deze stap over:** ga verder met het beschikbare materiaal en noteer welke
   keuzes over kern, publiek of belofte nog onzeker zijn.
 
-Volledig zelfstandig uitvragen kan niet zonder inhoud van de opdrachtgever. Als
-de opdrachtgever vraagt `Doe het voor mij`, maak dan op basis van beschikbaar
-materiaal een voorlopige schrijfbrief en markeer aannames en gaten.
+Een antwoord met alleen `1`, `2`, `3` of `4` geldt als een volledige keuze.
+Volledig zelfstandig uitvragen kan niet zonder inhoud van de opdrachtgever.
 
 Sluit af met advies voor de volgende stap en vraag opnieuw naar de rol:
 
-> Mijn voorstel: [volgende stap], omdat [reden]. Wil je dat ik het doe, doen we
-> het samen, doe jij het zelf of slaan we deze stap over?
+> Mijn voorstel: [volgende stap], omdat [reden]. Wat kies je?
+>
+> 1. Doe het voor mij.
+> 2. Doe het met mij.
+> 3. Ik doe het zelf.
+> 4. Sla deze stap over.
 
 Schrijf geen volledige tekst tenzij de opdrachtgever daar afzonderlijk voor
 kiest.

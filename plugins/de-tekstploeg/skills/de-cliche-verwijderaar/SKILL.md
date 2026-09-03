@@ -9,18 +9,19 @@ description: Herken en verwijder clichés, versleten metaforen, lege formulering
 
 Laat de opdrachtgever vóór deze fase kiezen:
 
-- **Doe het voor mij:** bewerk de volledige tekst volgens deze skill en toon de
+1. **Doe het voor mij:** bewerk de volledige tekst volgens deze skill en toon de
   bruikbare eindversie met alleen wezenlijke toelichting.
-- **Doe het met mij:** behandel één passage of terugkerend taalpatroon per keer,
+2. **Doe het met mij:** behandel één passage of terugkerend taalpatroon per keer,
   leg een concreet voorstel voor en verwerk alleen bevestigde keuzes.
-- **Ik doe het zelf:** markeer de belangrijkste passages, benoem per passage het
+3. **Ik doe het zelf:** markeer de belangrijkste passages, benoem per passage het
   probleem en geef een gerichte bewerkingsopdracht zonder de tekst te wijzigen.
-- **Sla deze stap over:** behoud de huidige formulering en noteer dat taal,
+4. **Sla deze stap over:** behoud de huidige formulering en noteer dat taal,
   clichés en mogelijke AI-cadans niet afzonderlijk zijn gecontroleerd.
 
-Een eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit af met een
+Een antwoord met alleen `1`, `2`, `3` of `4` geldt als een volledige keuze. Een
+eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit af met een
 kort advies voor de volgende stap en laat de opdrachtgever daar opnieuw de rol
-kiezen.
+kiezen met dezelfde genummerde opties.
 
 Maak een tekst concreter en oorspronkelijker zonder hem gladder, literairder of nadrukkelijk grappiger te maken. Behoud de stem van de schrijver en verander alleen wat de tekst werkelijk verzwakt.
 

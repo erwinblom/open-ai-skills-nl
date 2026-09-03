@@ -9,17 +9,19 @@ description: Lees Nederlandse teksten kritisch tegen en test redenering, bewijs,
 
 Laat de opdrachtgever vóór deze fase kiezen:
 
-- **Doe het voor mij:** voer de tegenlezing uit en lever een geprioriteerd
+1. **Doe het voor mij:** voer de tegenlezing uit en lever een geprioriteerd
   rapport met de kleinste geloofwaardige reparaties.
-- **Doe het met mij:** behandel één belangrijk lezersbezwaar per keer en laat de
+2. **Doe het met mij:** behandel één belangrijk lezersbezwaar per keer en laat de
   opdrachtgever bepalen of en hoe de tekst daarop reageert.
-- **Ik doe het zelf:** lever relevante lezerslenzen, controlevragen en een korte
+3. **Ik doe het zelf:** lever relevante lezerslenzen, controlevragen en een korte
   beoordelingskaart zonder de tekst te beoordelen of wijzigen.
-- **Sla deze stap over:** ga verder zonder tegenlezing en noteer welk mogelijk
+4. **Sla deze stap over:** ga verder zonder tegenlezing en noteer welk mogelijk
   lezersrisico daardoor niet is onderzocht.
 
-Een eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit af met advies
+Een antwoord met alleen `1`, `2`, `3` of `4` geldt als een volledige keuze. Een
+eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit af met advies
 voor de volgende stap en laat de opdrachtgever daar opnieuw de rol kiezen.
+Toon daarbij opnieuw dezelfde genummerde opties.
 
 Lees als een betrokken maar onafhankelijke buitenstaander. Zoek wat de schrijver zelf gemakkelijk mist. Wees concreet, eerlijk en proportioneel; maak van kleine stijlvoorkeuren geen inhoudelijke bezwaren.
 

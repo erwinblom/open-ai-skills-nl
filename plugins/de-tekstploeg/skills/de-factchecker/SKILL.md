@@ -9,17 +9,19 @@ description: Controleert dragende, extern verifieerbare claims in Nederlandse te
 
 Laat de opdrachtgever vóór deze fase kiezen:
 
-- **Doe het voor mij:** selecteer en controleer de dragende claims en lever het
+1. **Doe het voor mij:** selecteer en controleer de dragende claims en lever het
   volledige factcheckrapport.
-- **Doe het met mij:** behandel één claim per keer, bespreek bronsterkte en laat
+2. **Doe het met mij:** behandel één claim per keer, bespreek bronsterkte en laat
   de opdrachtgever beslissen over twijfelgevallen en correcties.
-- **Ik doe het zelf:** lever een geprioriteerde claimlijst, bronvolgorde en
+3. **Ik doe het zelf:** lever een geprioriteerde claimlijst, bronvolgorde en
   controleformulier; beoordeel daarna de aangeleverde uitkomsten.
-- **Sla deze stap over:** wijzig niets en noteer welke dragende claims
+4. **Sla deze stap over:** wijzig niets en noteer welke dragende claims
   ongeverifieerd blijven en welk publicatierisico dat geeft.
 
-Een eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit af met advies
+Een antwoord met alleen `1`, `2`, `3` of `4` geldt als een volledige keuze. Een
+eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit af met advies
 voor de volgende stap en laat de opdrachtgever daar opnieuw de rol kiezen.
+Toon daarbij opnieuw dezelfde genummerde opties.
 
 ## Doel
 

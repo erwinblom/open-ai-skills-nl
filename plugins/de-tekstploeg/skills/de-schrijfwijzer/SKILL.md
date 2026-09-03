@@ -9,20 +9,22 @@ description: Haalt herbruikbare lessen uit een Nederlandse schrijfronde door opd
 
 Laat de opdrachtgever vóór deze fase kiezen:
 
-- **Doe het voor mij:** vergelijk versies en feedback en lever concrete
+1. **Doe het voor mij:** vergelijk versies en feedback en lever concrete
   voorstellen voor de schrijfwijzer; wijzig de schrijfafspraken pas als dat in
   dezelfde opdracht expliciet is toegestaan.
-- **Doe het met mij:** behandel één mogelijke les per keer en laat de
+2. **Doe het met mij:** behandel één mogelijke les per keer en laat de
   opdrachtgever beslissen of die wordt vastgelegd, nogmaals getoetst of
   verworpen.
-- **Ik doe het zelf:** lever een invulbaar leerformulier met de betekenisvolle
+3. **Ik doe het zelf:** lever een invulbaar leerformulier met de betekenisvolle
   verschillen, bewijscriteria en mogelijke opslagplek; beoordeel daarna de
   gekozen lessen.
-- **Sla deze stap over:** rond het project af zonder schrijfregels te wijzigen en
+4. **Sla deze stap over:** rond het project af zonder schrijfregels te wijzigen en
   noteer alleen dat mogelijke lessen uit deze ronde niet zijn verwerkt.
 
-Een eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit na het leren
-af met de keuze om een nieuw schrijfproject te beginnen of het proces te stoppen.
+Een antwoord met alleen `1`, `2`, `3` of `4` geldt als een volledige keuze. Een
+eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit na het leren
+af met genummerde keuzes om een nieuw schrijfproject te beginnen of het proces
+te stoppen.
 
 ## Doel
 

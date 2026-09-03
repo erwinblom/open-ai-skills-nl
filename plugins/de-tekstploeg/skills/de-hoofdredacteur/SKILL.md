@@ -95,16 +95,17 @@ afgeronde overdracht.
 
 ## Verplichte rolkeuze
 
-Vraag bij iedere nieuwe fase:
+Vraag bij iedere nieuwe fase. Toon de keuzemogelijkheden altijd als deze
+genummerde lijst; een antwoord met alleen `1`, `2`, `3` of `4` geldt als een
+volledige keuze:
 
-> Mijn voorstel: [volgende stap], omdat [korte reden]. Wil je dat ik het doe,
-> doen we het samen, doe jij het zelf of slaan we deze stap over?
+> Mijn voorstel: [volgende stap], omdat [korte reden]. Wat kies je?
 
-- **Doe het voor mij:** voer de fase uit en leg het resultaat voor.
-- **Doe het met mij:** begeleid in kleine betekenisvolle stappen.
-- **Ik doe het zelf:** geef een compacte opdracht, criteria en eventueel een
+1. **Doe het voor mij:** voer de fase uit en leg het resultaat voor.
+2. **Doe het met mij:** begeleid in kleine betekenisvolle stappen.
+3. **Ik doe het zelf:** geef een compacte opdracht, criteria en eventueel een
   sjabloon; hervat zodra het resultaat er is.
-- **Sla deze stap over:** leg kort vast waarom de stap wordt overgeslagen, welk
+4. **Sla deze stap over:** leg kort vast waarom de stap wordt overgeslagen, welk
   risico openblijft en wat nu de beste volgende stap is.
 
 Neem een rolkeuze nooit stilzwijgend mee naar de volgende fase. Toestemming voor

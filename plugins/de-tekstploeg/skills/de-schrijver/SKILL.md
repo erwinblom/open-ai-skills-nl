@@ -23,6 +23,7 @@ Vraag vóór het schrijven welke rol de opdrachtgever kiest:
 4. **Sla deze stap over:** ga alleen verder wanneer er al een bruikbaar concept
    ligt; noteer anders dat de workflow niet inhoudelijk kan doorgaan.
 
+Een antwoord met alleen `1`, `2`, `3` of `4` geldt als een volledige keuze.
 Een eerder gekozen rol geldt niet automatisch voor deze fase. De opdrachtgever
 kan tijdens het werk van rol wisselen.
 
@@ -40,5 +41,9 @@ Sluit af met een kort procesadvies. Stel alleen redactiestappen voor die deze
 tekst werkelijk nodig heeft en noem welke kunnen worden overgeslagen. Vraag voor
 de gekozen volgende fase:
 
-> Mijn voorstel: [volgende stap], omdat [reden]. Wil je dat ik het doe, doen we
-> het samen, doe jij het zelf of slaan we deze stap over?
+> Mijn voorstel: [volgende stap], omdat [reden]. Wat kies je?
+>
+> 1. Doe het voor mij.
+> 2. Doe het met mij.
+> 3. Ik doe het zelf.
+> 4. Sla deze stap over.

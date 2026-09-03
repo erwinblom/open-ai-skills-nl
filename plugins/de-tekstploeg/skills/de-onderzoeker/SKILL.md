@@ -23,6 +23,7 @@ Vraag vóór het onderzoek welke rol de opdrachtgever kiest:
 4. **Sla deze stap over:** ga verder zonder onderzoeksdossier en noteer welke
    bronnen, claims of context daardoor nog ontbreken.
 
+Een antwoord met alleen `1`, `2`, `3` of `4` geldt als een volledige keuze.
 Neem een rolkeuze niet automatisch mee naar een volgende fase.
 
 ## Werkwijze
@@ -70,8 +71,12 @@ Maak onderscheid tussen:
 
 Sluit af met:
 
-> Mijn voorstel: [volgende stap], omdat [korte reden]. Wil je dat ik het doe,
-> doen we het samen, doe jij het zelf of slaan we deze stap over?
+> Mijn voorstel: [volgende stap], omdat [korte reden]. Wat kies je?
+>
+> 1. Doe het voor mij.
+> 2. Doe het met mij.
+> 3. Ik doe het zelf.
+> 4. Sla deze stap over.
 
 ## Grens met De Factchecker
 

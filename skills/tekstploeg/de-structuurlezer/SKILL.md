@@ -9,17 +9,19 @@ description: Leest Nederlandse conceptteksten op hoofdlijn, volgorde en redeneri
 
 Laat de opdrachtgever vóór deze fase kiezen:
 
-- **Doe het voor mij:** analyseer de volledige tekst en lever het
+1. **Doe het voor mij:** analyseer de volledige tekst en lever het
   Structuurrapport zonder de bron te wijzigen.
-- **Doe het met mij:** behandel één structuursignaal per keer, leg het effect uit
+2. **Doe het met mij:** behandel één structuursignaal per keer, leg het effect uit
   en werk pas na instemming aan een oplossing.
-- **Ik doe het zelf:** lever een routekaart met gerichte controlevragen en de
+3. **Ik doe het zelf:** lever een routekaart met gerichte controlevragen en de
   passages die aandacht vragen, zonder oplossingen of wijzigingen uit te voeren.
-- **Sla deze stap over:** ga verder zonder structuurcontrole en noteer welke
+4. **Sla deze stap over:** ga verder zonder structuurcontrole en noteer welke
   twijfel over hoofdlijn, volgorde of redenering openblijft.
 
-Een eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit af met advies
+Een antwoord met alleen `1`, `2`, `3` of `4` geldt als een volledige keuze. Een
+eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit af met advies
 voor de volgende stap en laat de opdrachtgever daar opnieuw de rol kiezen.
+Toon daarbij opnieuw dezelfde genummerde opties.
 
 ## Doel
 
