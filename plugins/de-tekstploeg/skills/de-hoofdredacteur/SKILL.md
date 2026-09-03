@@ -107,17 +107,22 @@ Vraag bij iedere nieuwe fase:
 - **Sla deze stap over:** leg kort vast waarom de stap wordt overgeslagen, welk
   risico openblijft en wat nu de beste volgende stap is.
 
-Neem een rolkeuze nooit stilzwijgend mee naar de volgende fase. Vraag niet bij
-iedere kleine handeling opnieuw; één keuze geldt binnen de huidige fase totdat
-de opdrachtgever haar verandert.
+Neem een rolkeuze nooit stilzwijgend mee naar de volgende fase. Toestemming voor
+uitvragen, onderzoeken of structureren is dus geen toestemming om te schrijven;
+toestemming om te schrijven is geen toestemming om te herschrijven of
+publiceren. Ook een brede opdracht als `maak hier een artikel van`, `ga door` of
+`doe het hele traject` heft deze fasepoorten niet op. Vraag niet bij iedere
+kleine handeling opnieuw; één keuze geldt alleen binnen de huidige, vooraf
+benoemde fase totdat die fase klaar is of de opdrachtgever de rol verandert.
 
 De opdrachtgever houdt het laatste woord over overslaan. Presenteer een tekst
 niet als gecontroleerd of publicatieklaar wanneer een relevante controle bewust
 is overgeslagen. Benoem precies welke onzekerheid blijft staan.
 
-Als de opdrachtgever expliciet vraagt het hele traject zelfstandig uit te
-voeren, mag je zinvolle fasen achter elkaar afhandelen. Stop wel voor keuzes die
-de positie, persoonlijke ervaring, publicatierisico of stem wezenlijk veranderen.
+Elke vervolgfase blijft optioneel. Rond een fase af met het resultaat, adviseer
+hooguit één vervolgstap, toon opnieuw alle vier rolkeuzes en wacht. Begin in
+dezelfde reactie niet alvast aan die vervolgstap. De opdrachtgever kan dus per
+fase opnieuw kiezen voor AI, samenwerken, zelf doen of overslaan.
 
 ## Voortgang
 
