@@ -29,6 +29,24 @@ Iedere skill is zelfstandig te gebruiken. Samen vormen de skills een werkproces.
 
 [Lees hoe De Tekstploeg werkt](skills/tekstploeg/README.md) of bekijk [het tekstvoorbeeld](examples/tekstploeg.md).
 
+### De complete Tekstploeg starten
+
+Installeer voor de begeleide workflow alle negen skills uit
+`skills/tekstploeg/`. De Hoofdredacteur kiest en adviseert de volgende rol, maar
+kan die specialist alleen inzetten wanneer diens skill ook beschikbaar is.
+
+Start daarna met:
+
+```text
+Gebruik De Hoofdredacteur. Ik wil een artikel schrijven over [idee]. Begin waar
+mijn materiaal dat vereist. Stel steeds de volgende zinvolle stap voor en laat
+mij kiezen: doe het voor mij, doe het met mij, ik doe het zelf of sla deze stap
+over.
+```
+
+Zie [De complete Tekstploeg gebruiken](docs/installeren.md#de-complete-tekstploeg-gebruiken)
+voor ChatGPT Work, Codex, Claude Code en gewone chattools.
+
 ## De Innovatieploeg
 
 | Stap | Skill | Resultaat |
@@ -76,6 +94,13 @@ Of installeer de hele Innovatieploeg:
 ```bash
 mkdir -p ~/.agents/skills
 cp -R skills/innovatieploeg/* ~/.agents/skills/
+```
+
+Voor de complete Tekstploeg:
+
+```bash
+mkdir -p ~/.agents/skills
+cp -R skills/tekstploeg/* ~/.agents/skills/
 ```
 
 Codex detecteert wijzigingen automatisch. Noem de skill expliciet met `$`, bijvoorbeeld:

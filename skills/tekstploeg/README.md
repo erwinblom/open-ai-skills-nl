@@ -5,6 +5,10 @@ De Hoofdredacteur stelt steeds de zinvolste vervolgstap voor. De opdrachtgever
 kiest per fase: `doe het voor mij`, `doe het met mij`, `ik doe het zelf` of
 `sla deze stap over`.
 
+Installeer of deel voor deze volledige workflow alle negen skills uit deze map.
+De Hoofdredacteur kan een specialist alleen inzetten wanneer diens `SKILL.md`
+beschikbaar is.
+
 ## De Hoofdredacteur
 
 Gebruik deze skill als ingang voor een volledig schrijfproject. Hij bepaalt waar
@@ -13,7 +17,8 @@ gemotiveerd over.
 
 ```text
 Gebruik $de-hoofdredacteur. Begeleid dit schrijfproject en laat mij bij iedere
-nieuwe fase kiezen wie het werk doet.
+nieuwe fase kiezen: doe het voor mij, doe het met mij, ik doe het zelf of sla
+deze stap over.
 ```
 
 ## De Uitvrager

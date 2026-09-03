@@ -7,6 +7,8 @@ De kern van iedere skill is een gewone map met een `SKILL.md`. De bestanden in `
 Je hoeft niet de hele repository te installeren.
 
 - Voor redactie: installeer één of meer skills uit `skills/tekstploeg/`.
+- Voor de begeleide schrijfworkflow: installeer alle negen skills uit
+  `skills/tekstploeg/`.
 - Voor een compleet innovatieproces: installeer de vijf skills uit `skills/innovatieploeg/`.
 - Voor één innovatiestap: installeer alleen de passende skill.
 
@@ -36,9 +38,46 @@ Controleer deze skillmap en installeer hem als hij veilig en geldig is.
 Vertel daarna in één alinea wanneer ik hem kan gebruiken.
 ```
 
-## ChatGPT en Codex
+## De complete Tekstploeg gebruiken
 
-In ChatGPT selecteer je een geïnstalleerde skill met `@`. In Codex noem je hem met `$` of gebruik je `/skills`. ChatGPT en Codex kunnen een skill ook automatisch kiezen op basis van de beschrijving.
+De Hoofdredacteur is de ingang van de workflow. Hij stelt vast waar het
+schrijfproject staat en adviseert daarna steeds één volgende specialist. Om die
+route volledig te kunnen uitvoeren, moeten alle negen skillmappen uit
+`skills/tekstploeg/` beschikbaar zijn. Alleen De Hoofdredacteur installeren is
+niet genoeg.
+
+Gebruik na installatie of het beschikbaar maken van de repository deze
+startopdracht:
+
+```text
+Gebruik De Hoofdredacteur. Ik wil een artikel schrijven over [idee]. Begin waar
+mijn materiaal dat vereist. Stel steeds de volgende zinvolle stap voor en laat
+mij kiezen: doe het voor mij, doe het met mij, ik doe het zelf of sla deze stap
+over.
+```
+
+### ChatGPT Work
+
+Er zijn twee praktische routes:
+
+1. **Met geïnstalleerde skills:** installeer de negen skillmappen afzonderlijk
+   en selecteer daarna De Hoofdredacteur met `@`.
+2. **Vanuit GitHub:** koppel of selecteer GitHub, verwijs naar
+   `erwinblom/open-ai-skills-nl` en vraag Work eerst
+   `skills/tekstploeg/de-hoofdredacteur/SKILL.md` en daarna alleen de door hem
+   gekozen specialist te volgen.
+
+Voor de tweede route kan de startopdracht beginnen met:
+
+```text
+Gebruik De Hoofdredacteur uit de repository erwinblom/open-ai-skills-nl en volg
+de specialist die hij per fase kiest.
+```
+
+### Codex
+
+In Codex noem je een skill met `$` of gebruik je `/skills`. Codex kan een skill
+ook automatisch kiezen op basis van de beschrijving.
 
 Voor lokaal gebruik met Codex kopieer je de skill naar `$HOME/.agents/skills`:
 
@@ -56,7 +95,14 @@ mkdir -p ~/.agents/skills
 cp -R skills/tekstploeg/de-tegenlezer ~/.agents/skills/
 ```
 
-Voor alle zeven skills:
+Voor de complete Tekstploeg:
+
+```bash
+mkdir -p ~/.agents/skills
+cp -R skills/tekstploeg/* ~/.agents/skills/
+```
+
+Voor alle veertien skills uit beide ploegen:
 
 ```bash
 mkdir -p ~/.agents/skills
@@ -65,8 +111,6 @@ cp -R skills/innovatieploeg/* ~/.agents/skills/
 ```
 
 Voor één repository gebruik je `.agents/skills/` in die repository. Codex detecteert wijzigingen normaal automatisch. Zie de [officiële documentatie voor ChatGPT en Codex](https://learn.chatgpt.com/docs/build-skills).
-
-## Andere AI-tools
 
 ### Claude Code
 
@@ -77,6 +121,13 @@ mkdir -p ~/.claude/skills
 cp -R skills/tekstploeg/de-tegenlezer ~/.claude/skills/
 ```
 
+Voor de complete Tekstploeg:
+
+```bash
+mkdir -p ~/.claude/skills
+cp -R skills/tekstploeg/* ~/.claude/skills/
+```
+
 Roep de skill aan met een slash:
 
 ```text
@@ -84,6 +135,19 @@ Roep de skill aan met een slash:
 ```
 
 Claude kan hem op basis van de beschrijving ook automatisch kiezen. Zie de [officiële Claude Code-documentatie over skills](https://code.claude.com/docs/en/skills).
+
+### Chattools zonder skillondersteuning
+
+Maak de negen `SKILL.md`-bestanden beschikbaar als projectinstructies of
+projectcontext. Begin met De Hoofdredacteur en voeg tijdens het proces de door
+hem gekozen specialist toe. Kan de tool voldoende projectbestanden tegelijk
+lezen, voeg dan de hele map `skills/tekstploeg/` toe.
+
+Automatische skillselectie en progressieve inlading ontbreken meestal in deze
+tools. De Hoofdredacteur kan de route nog steeds adviseren, maar de gebruiker
+moet het juiste instructiebestand soms zelf toevoegen.
+
+## Andere AI-tools
 
 ### Gemini CLI
 
@@ -126,7 +190,7 @@ Gemini CLI en GitHub Copilot ondersteunen `.agents/skills/` als interoperabele l
 
 Controleer per tool welke map voorrang krijgt als dezelfde skill op meerdere plaatsen staat.
 
-### Chattools zonder skillondersteuning
+### Losse skills in chattools zonder skillondersteuning
 
 De werkwijze blijft bruikbaar in Cursor en andere chatomgevingen die geen lokale skillmap laden:
 
