@@ -1,0 +1,8 @@
+interface:
+  display_name: "De Factchecker"
+  short_description: "Controleer claims, bronnen en bewijsgrenzen"
+  default_prompt: "Gebruik $de-factchecker om de dragende claims in deze Nederlandse tekst tegen actuele bronnen te controleren zonder de tekst automatisch te herschrijven."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,8 @@
+interface:
+  display_name: "De Structuurlezer"
+  short_description: "Controleer hoofdlijn en redenering"
+  default_prompt: "Gebruik $de-structuurlezer om deze tekst op hoofdlijn, volgorde en redenering te controleren zonder hem te herschrijven."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true

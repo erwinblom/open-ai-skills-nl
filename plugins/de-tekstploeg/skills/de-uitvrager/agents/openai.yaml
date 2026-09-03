@@ -1,0 +1,9 @@
+interface:
+  display_name: "De Uitvrager"
+  short_description: "Werk een eerste schrijfidee stap voor stap uit"
+  default_prompt: "Gebruik $de-uitvrager om mijn eerste idee uit te werken. Stel één vraag per keer en maak daarna een schrijfbrief."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true
+

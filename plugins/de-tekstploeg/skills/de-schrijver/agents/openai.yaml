@@ -1,0 +1,9 @@
+interface:
+  display_name: "De Schrijver"
+  short_description: "Maak alleen of samen een eerste versie"
+  default_prompt: "Gebruik $de-schrijver om van deze schrijfbrief een concept te maken. Vraag eerst of jij schrijft, we het samen doen of ik zelf schrijf."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true
+

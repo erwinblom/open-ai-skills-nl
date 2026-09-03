@@ -1,0 +1,9 @@
+interface:
+  display_name: "De Hoofdredacteur"
+  short_description: "Kies steeds de beste volgende schrijfstap"
+  default_prompt: "Gebruik $de-hoofdredacteur om dit schrijfproject te begeleiden. Stel na iedere fase de beste vervolgstap en mijn rol daarin voor."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true
+
