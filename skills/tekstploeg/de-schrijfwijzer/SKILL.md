@@ -18,6 +18,8 @@ Laat de opdrachtgever vóór deze fase kiezen:
 - **Ik doe het zelf:** lever een invulbaar leerformulier met de betekenisvolle
   verschillen, bewijscriteria en mogelijke opslagplek; beoordeel daarna de
   gekozen lessen.
+- **Sla deze stap over:** rond het project af zonder schrijfregels te wijzigen en
+  noteer alleen dat mogelijke lessen uit deze ronde niet zijn verwerkt.
 
 Een eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit na het leren
 af met de keuze om een nieuw schrijfproject te beginnen of het proces te stoppen.

@@ -15,6 +15,8 @@ Laat de opdrachtgever vóór deze fase kiezen:
   leg een concreet voorstel voor en verwerk alleen bevestigde keuzes.
 - **Ik doe het zelf:** markeer de belangrijkste passages, benoem per passage het
   probleem en geef een gerichte bewerkingsopdracht zonder de tekst te wijzigen.
+- **Sla deze stap over:** behoud de huidige formulering en noteer dat taal,
+  clichés en mogelijke AI-cadans niet afzonderlijk zijn gecontroleerd.
 
 Een eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit af met een
 kort advies voor de volgende stap en laat de opdrachtgever daar opnieuw de rol

@@ -20,6 +20,8 @@ Vraag vóór het schrijven welke rol de opdrachtgever kiest:
    richting, inhoud of stem merkbaar veranderen.
 3. **Ik doe het zelf:** lever een schrijfopdracht met opzet, materiaal per
    onderdeel en aandachtspunten. Wacht daarna op het concept.
+4. **Sla deze stap over:** ga alleen verder wanneer er al een bruikbaar concept
+   ligt; noteer anders dat de workflow niet inhoudelijk kan doorgaan.
 
 Een eerder gekozen rol geldt niet automatisch voor deze fase. De opdrachtgever
 kan tijdens het werk van rol wisselen.
@@ -39,5 +41,4 @@ tekst werkelijk nodig heeft en noem welke kunnen worden overgeslagen. Vraag voor
 de gekozen volgende fase:
 
 > Mijn voorstel: [volgende stap], omdat [reden]. Wil je dat ik het doe, doen we
-> het samen of doe jij het zelf?
-
+> het samen, doe jij het zelf of slaan we deze stap over?

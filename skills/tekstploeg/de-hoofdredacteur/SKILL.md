@@ -50,16 +50,22 @@ inhoudelijk gat blootlegt. Houd procesadvies en uitvoering gescheiden.
 Vraag bij iedere nieuwe fase:
 
 > Mijn voorstel: [volgende stap], omdat [korte reden]. Wil je dat ik het doe,
-> doen we het samen of doe jij het zelf?
+> doen we het samen, doe jij het zelf of slaan we deze stap over?
 
 - **Doe het voor mij:** voer de fase uit en leg het resultaat voor.
 - **Doe het met mij:** begeleid in kleine betekenisvolle stappen.
 - **Ik doe het zelf:** geef een compacte opdracht, criteria en eventueel een
   sjabloon; hervat zodra het resultaat er is.
+- **Sla deze stap over:** leg kort vast waarom de stap wordt overgeslagen, welk
+  risico openblijft en wat nu de beste volgende stap is.
 
 Neem een rolkeuze nooit stilzwijgend mee naar de volgende fase. Vraag niet bij
 iedere kleine handeling opnieuw; één keuze geldt binnen de huidige fase totdat
 de opdrachtgever haar verandert.
+
+De opdrachtgever houdt het laatste woord over overslaan. Presenteer een tekst
+niet als gecontroleerd of publicatieklaar wanneer een relevante controle bewust
+is overgeslagen. Benoem precies welke onzekerheid blijft staan.
 
 Als de opdrachtgever expliciet vraagt het hele traject zelfstandig uit te
 voeren, mag je zinvolle fasen achter elkaar afhandelen. Stop wel voor keuzes die
@@ -72,6 +78,7 @@ Houd compact bij:
 - huidige fase en gekozen rol;
 - afgeronde controles en uitkomsten;
 - overgeslagen stappen met reden;
+- open risico's door overgeslagen stappen;
 - open vragen en risico's;
 - geldende feedbackbesluiten;
 - voorgestelde volgende stap.

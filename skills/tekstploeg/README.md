@@ -2,7 +2,8 @@
 
 Een adaptieve schrijfploeg die van eerste idee tot volgende tekst kan begeleiden.
 De Hoofdredacteur stelt steeds de zinvolste vervolgstap voor. De opdrachtgever
-kiest per fase: `doe het voor mij`, `doe het met mij` of `ik doe het zelf`.
+kiest per fase: `doe het voor mij`, `doe het met mij`, `ik doe het zelf` of
+`sla deze stap over`.
 
 ## De Hoofdredacteur
 

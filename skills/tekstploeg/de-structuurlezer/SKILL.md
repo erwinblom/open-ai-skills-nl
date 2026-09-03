@@ -15,6 +15,8 @@ Laat de opdrachtgever vóór deze fase kiezen:
   en werk pas na instemming aan een oplossing.
 - **Ik doe het zelf:** lever een routekaart met gerichte controlevragen en de
   passages die aandacht vragen, zonder oplossingen of wijzigingen uit te voeren.
+- **Sla deze stap over:** ga verder zonder structuurcontrole en noteer welke
+  twijfel over hoofdlijn, volgorde of redenering openblijft.
 
 Een eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit af met advies
 voor de volgende stap en laat de opdrachtgever daar opnieuw de rol kiezen.

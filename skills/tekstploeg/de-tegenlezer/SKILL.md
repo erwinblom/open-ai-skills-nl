@@ -15,6 +15,8 @@ Laat de opdrachtgever vóór deze fase kiezen:
   opdrachtgever bepalen of en hoe de tekst daarop reageert.
 - **Ik doe het zelf:** lever relevante lezerslenzen, controlevragen en een korte
   beoordelingskaart zonder de tekst te beoordelen of wijzigen.
+- **Sla deze stap over:** ga verder zonder tegenlezing en noteer welk mogelijk
+  lezersrisico daardoor niet is onderzocht.
 
 Een eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit af met advies
 voor de volgende stap en laat de opdrachtgever daar opnieuw de rol kiezen.

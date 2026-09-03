@@ -37,6 +37,8 @@ Vraag bij aanvang hoe de opdrachtgever wil werken:
 - **Doe het met mij:** voer het vraaggesprek één vraag per keer.
 - **Ik doe het zelf:** geef een compacte vragenlijst of invulblad en hervat zodra
   de antwoorden er zijn.
+- **Sla deze stap over:** ga verder met het beschikbare materiaal en noteer welke
+  keuzes over kern, publiek of belofte nog onzeker zijn.
 
 Volledig zelfstandig uitvragen kan niet zonder inhoud van de opdrachtgever. Als
 de opdrachtgever vraagt `Doe het voor mij`, maak dan op basis van beschikbaar
@@ -45,8 +47,7 @@ materiaal een voorlopige schrijfbrief en markeer aannames en gaten.
 Sluit af met advies voor de volgende stap en vraag opnieuw naar de rol:
 
 > Mijn voorstel: [volgende stap], omdat [reden]. Wil je dat ik het doe, doen we
-> het samen of doe jij het zelf?
+> het samen, doe jij het zelf of slaan we deze stap over?
 
 Schrijf geen volledige tekst tenzij de opdrachtgever daar afzonderlijk voor
 kiest.
-

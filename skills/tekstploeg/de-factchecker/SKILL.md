@@ -15,6 +15,8 @@ Laat de opdrachtgever vóór deze fase kiezen:
   de opdrachtgever beslissen over twijfelgevallen en correcties.
 - **Ik doe het zelf:** lever een geprioriteerde claimlijst, bronvolgorde en
   controleformulier; beoordeel daarna de aangeleverde uitkomsten.
+- **Sla deze stap over:** wijzig niets en noteer welke dragende claims
+  ongeverifieerd blijven en welk publicatierisico dat geeft.
 
 Een eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit af met advies
 voor de volgende stap en laat de opdrachtgever daar opnieuw de rol kiezen.

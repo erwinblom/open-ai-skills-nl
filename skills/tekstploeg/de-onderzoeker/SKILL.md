@@ -20,6 +20,8 @@ Vraag vóór het onderzoek welke rol de opdrachtgever kiest:
    opdrachtgever bepalen welke lijnen verdieping verdienen.
 3. **Ik doe het zelf:** lever een onderzoeksplan, zoektermen, bronvolgorde en
    invulbaar dossier; beoordeel daarna het verzamelde materiaal.
+4. **Sla deze stap over:** ga verder zonder onderzoeksdossier en noteer welke
+   bronnen, claims of context daardoor nog ontbreken.
 
 Neem een rolkeuze niet automatisch mee naar een volgende fase.
 
@@ -69,7 +71,7 @@ Maak onderscheid tussen:
 Sluit af met:
 
 > Mijn voorstel: [volgende stap], omdat [korte reden]. Wil je dat ik het doe,
-> doen we het samen of doe jij het zelf?
+> doen we het samen, doe jij het zelf of slaan we deze stap over?
 
 ## Grens met De Factchecker
 
@@ -78,4 +80,3 @@ neemt concrete passages uit een concept en beoordeelt of de precieze formulering
 door actuele bronnen wordt gedragen. Een goed onderzoeksdossier vervangt die
 laatste controle niet wanneer de uiteindelijke tekst stelliger of anders is
 geworden.
-
