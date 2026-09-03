@@ -1,0 +1,9 @@
+interface:
+  display_name: "De Onderzoeker"
+  short_description: "Bouw een betrouwbaar bron- en citatendossier"
+  default_prompt: "Gebruik $de-onderzoeker om voor deze schrijfbrief bronnen, feiten, cijfers, citaten en tegenbewijs te verzamelen. Vraag eerst hoe ik wil meewerken."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true
+

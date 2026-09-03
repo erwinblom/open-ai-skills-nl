@@ -5,6 +5,20 @@ description: Controleert dragende, extern verifieerbare claims in Nederlandse te
 
 # De Factchecker
 
+## Rolkeuze
+
+Laat de opdrachtgever vóór deze fase kiezen:
+
+- **Doe het voor mij:** selecteer en controleer de dragende claims en lever het
+  volledige factcheckrapport.
+- **Doe het met mij:** behandel één claim per keer, bespreek bronsterkte en laat
+  de opdrachtgever beslissen over twijfelgevallen en correcties.
+- **Ik doe het zelf:** lever een geprioriteerde claimlijst, bronvolgorde en
+  controleformulier; beoordeel daarna de aangeleverde uitkomsten.
+
+Een eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit af met advies
+voor de volgende stap en laat de opdrachtgever daar opnieuw de rol kiezen.
+
 ## Doel
 
 Controleer of de dragende, extern verifieerbare claims in een Nederlandse tekst

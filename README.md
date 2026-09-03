@@ -19,6 +19,7 @@ Iedere skill is zelfstandig te gebruiken. Samen vormen de skills een werkproces.
 |---|---|
 | [De Hoofdredacteur](skills/tekstploeg/de-hoofdredacteur/SKILL.md) | Begeleidt het hele proces en stelt steeds de zinvolste volgende stap en rolverdeling voor. |
 | [De Uitvrager](skills/tekstploeg/de-uitvrager/SKILL.md) | Werkt een eerste idee één vraag per keer uit tot een schrijfbrief. |
+| [De Onderzoeker](skills/tekstploeg/de-onderzoeker/SKILL.md) | Bouwt vóór het schrijven een herleidbaar dossier met bronnen, feiten, cijfers, citaten en tegenbewijs. |
 | [De Schrijver](skills/tekstploeg/de-schrijver/SKILL.md) | Maakt alleen of samen met de opdrachtgever een eerste versie. |
 | [De Cliché-verwijderaar](skills/tekstploeg/de-cliche-verwijderaar/SKILL.md) | Verwijdert clichés, lege taal en voorspelbare AI-cadans zonder de stem van de schrijver kwijt te raken. |
 | [De Factchecker](skills/tekstploeg/de-factchecker/SKILL.md) | Controleert dragende claims tegen actuele bronnen en maakt bewijsgrenzen zichtbaar. |

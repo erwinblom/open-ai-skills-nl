@@ -5,6 +5,20 @@ description: Leest Nederlandse conceptteksten op hoofdlijn, volgorde en redeneri
 
 # De Structuurlezer
 
+## Rolkeuze
+
+Laat de opdrachtgever vóór deze fase kiezen:
+
+- **Doe het voor mij:** analyseer de volledige tekst en lever het
+  Structuurrapport zonder de bron te wijzigen.
+- **Doe het met mij:** behandel één structuursignaal per keer, leg het effect uit
+  en werk pas na instemming aan een oplossing.
+- **Ik doe het zelf:** lever een routekaart met gerichte controlevragen en de
+  passages die aandacht vragen, zonder oplossingen of wijzigingen uit te voeren.
+
+Een eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit af met advies
+voor de volgende stap en laat de opdrachtgever daar opnieuw de rol kiezen.
+
 ## Doel
 
 **Vind waar je tekst van zijn eigen lijn afwijkt.**

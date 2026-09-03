@@ -29,6 +29,8 @@ Maak geen volledige intake wanneer het materiaal voldoende duidelijk is.
 Kies steeds hooguit één primaire volgende stap:
 
 - **De Uitvrager:** de gedachte, inzet of het materiaal is nog onvoldoende helder;
+- **De Onderzoeker:** de schrijfbrief vraagt bronnen, cijfers, citaten, context of
+  tegenbewijs voordat verantwoord kan worden geschreven;
 - **De Schrijver:** er is een bruikbare schrijfbrief maar nog geen compleet concept;
 - **De Structuurlezer:** hoofdlijn, volgorde of redenering is onzeker;
 - **De Factchecker:** dragende controleerbare claims vragen broncontrole;
@@ -85,4 +87,3 @@ status vraagt. Laat procesadministratie het schrijven niet domineren.
 - Roep geen specialist aan om alleen de workflow compleet te laten lijken.
 - Laat De Schrijfwijzer pas blijvende wijzigingen voorstellen na werkelijk
   gebruikte feedback; één stilzwijgend geaccepteerde formulering is geen regel.
-

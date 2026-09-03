@@ -5,6 +5,20 @@ description: Lees Nederlandse teksten kritisch tegen en test redenering, bewijs,
 
 # De Tegenlezer
 
+## Rolkeuze
+
+Laat de opdrachtgever vóór deze fase kiezen:
+
+- **Doe het voor mij:** voer de tegenlezing uit en lever een geprioriteerd
+  rapport met de kleinste geloofwaardige reparaties.
+- **Doe het met mij:** behandel één belangrijk lezersbezwaar per keer en laat de
+  opdrachtgever bepalen of en hoe de tekst daarop reageert.
+- **Ik doe het zelf:** lever relevante lezerslenzen, controlevragen en een korte
+  beoordelingskaart zonder de tekst te beoordelen of wijzigen.
+
+Een eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit af met advies
+voor de volgende stap en laat de opdrachtgever daar opnieuw de rol kiezen.
+
 Lees als een betrokken maar onafhankelijke buitenstaander. Zoek wat de schrijver zelf gemakkelijk mist. Wees concreet, eerlijk en proportioneel; maak van kleine stijlvoorkeuren geen inhoudelijke bezwaren.
 
 ## Werkwijze

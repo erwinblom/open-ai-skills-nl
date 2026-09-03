@@ -5,6 +5,21 @@ description: Herken en verwijder clichés, versleten metaforen, lege formulering
 
 # De Cliché-verwijderaar
 
+## Rolkeuze
+
+Laat de opdrachtgever vóór deze fase kiezen:
+
+- **Doe het voor mij:** bewerk de volledige tekst volgens deze skill en toon de
+  bruikbare eindversie met alleen wezenlijke toelichting.
+- **Doe het met mij:** behandel één passage of terugkerend taalpatroon per keer,
+  leg een concreet voorstel voor en verwerk alleen bevestigde keuzes.
+- **Ik doe het zelf:** markeer de belangrijkste passages, benoem per passage het
+  probleem en geef een gerichte bewerkingsopdracht zonder de tekst te wijzigen.
+
+Een eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit af met een
+kort advies voor de volgende stap en laat de opdrachtgever daar opnieuw de rol
+kiezen.
+
 Maak een tekst concreter en oorspronkelijker zonder hem gladder, literairder of nadrukkelijk grappiger te maken. Behoud de stem van de schrijver en verander alleen wat de tekst werkelijk verzwakt.
 
 ## Werkwijze

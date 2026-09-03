@@ -5,6 +5,23 @@ description: Haalt herbruikbare lessen uit een Nederlandse schrijfronde door opd
 
 # De Schrijfwijzer
 
+## Rolkeuze
+
+Laat de opdrachtgever vóór deze fase kiezen:
+
+- **Doe het voor mij:** vergelijk versies en feedback en lever concrete
+  voorstellen voor de schrijfwijzer; wijzig de schrijfafspraken pas als dat in
+  dezelfde opdracht expliciet is toegestaan.
+- **Doe het met mij:** behandel één mogelijke les per keer en laat de
+  opdrachtgever beslissen of die wordt vastgelegd, nogmaals getoetst of
+  verworpen.
+- **Ik doe het zelf:** lever een invulbaar leerformulier met de betekenisvolle
+  verschillen, bewijscriteria en mogelijke opslagplek; beoordeel daarna de
+  gekozen lessen.
+
+Een eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit na het leren
+af met de keuze om een nieuw schrijfproject te beginnen of het proces te stoppen.
+
 ## Doel
 
 Zorg dat feedback op een tekst bruikbaar wordt voor volgende teksten. Vergelijk

@@ -26,6 +26,13 @@ Gebruik deze skill wanneer er een schrijfbrief en voldoende materiaal ligt. Hij
 kan een concept maken, samen per onderdeel schrijven of een schrijfopdracht
 geven voor wie zelf wil schrijven.
 
+## De Onderzoeker
+
+Gebruik deze skill wanneer de schrijfbrief nog bronnen, cijfers, citaten, context
+of tegenbewijs nodig heeft. Hij levert een herleidbaar onderzoeksdossier of een
+plan waarmee de opdrachtgever zelf onderzoek kan doen. De Factchecker blijft
+apart: die controleert later de precieze claims in het concept.
+
 ## De Structuurlezer
 
 Gebruik deze skill wanneer de inhoud er staat, maar hoofdlijn, volgorde of redenering nog niet overtuigt. De skill signaleert concrete structuurproblemen en herschrijft niets automatisch.
@@ -79,12 +86,13 @@ Stel voor welke lessen we blijvend moeten vastleggen, maar wijzig nog niets.
 Een mogelijke volledige route is:
 
 1. **Uitvrager** — wat wil de opdrachtgever werkelijk zeggen?
-2. **Schrijver** — wie maakt de eerste versie en hoe werken mens en AI samen?
-3. **Structuurlezer** — klopt de route van de tekst?
-4. **Factchecker** — worden de dragende claims door bronnen gedragen?
-5. **Tegenlezer** — waar kan de lezer afhaken of je niet geloven?
-6. **Cliché-verwijderaar** — kan de formulering scherper en oorspronkelijker?
-7. **Schrijfwijzer** — welke schrijfregels kunnen op basis van deze ronde beter?
+2. **Onderzoeker** — welk bewijs en materiaal heeft de tekst nodig?
+3. **Schrijver** — wie maakt de eerste versie en hoe werken mens en AI samen?
+4. **Structuurlezer** — klopt de route van de tekst?
+5. **Factchecker** — worden de dragende claims door bronnen gedragen?
+6. **Tegenlezer** — waar kan de lezer afhaken of je niet geloven?
+7. **Cliché-verwijderaar** — kan de formulering scherper en oorspronkelijker?
+8. **Schrijfwijzer** — welke schrijfregels kunnen op basis van deze ronde beter?
 
 Gebruik niet automatisch alle stappen. Een bestaande heldere tekst hoeft niet
 langs De Uitvrager of De Schrijver. Een korte aankondiging zonder complexe claims
