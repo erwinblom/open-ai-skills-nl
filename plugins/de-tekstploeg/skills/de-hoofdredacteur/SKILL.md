@@ -46,9 +46,9 @@ stel deze keuze niet opnieuw. Behandel een genoemd medium zoals `nieuwsbrief`,
 een merk zoals `Handpicked` of een doel zoals `ik wil schrijven` op zichzelf
 niet als een inhoudelijk idee.
 
-## Routering
+## Route en checklist
 
-Kies steeds hooguit één primaire volgende stap:
+Gebruik deze volledige route als checklist:
 
 - **De Uitvrager:** de gedachte, inzet of het materiaal is nog onvoldoende helder;
 - **De Onderzoeker:** de schrijfbrief vraagt bronnen, cijfers, citaten, context of
@@ -63,9 +63,22 @@ Kies steeds hooguit één primaire volgende stap:
   verschillen waar volgende teksten van kunnen leren;
 - **Afronden:** de tekst is geschikt voor het afgesproken doel.
 
-Gebruik geen vaste lopende band. Sla stappen over wanneer ze aantoonbaar weinig
-waarde toevoegen en vermeld kort waarom. Ga terug wanneer een controle een
-inhoudelijk gat blootlegt. Houd procesadvies en uitvoering gescheiden.
+Sla geen resterende stap stilzwijgend over. Kies steeds de eerstvolgende stap
+die nog niet is afgerond of door de opdrachtgever is overgeslagen. Adviseer
+`Sla deze stap over` wanneer een specialist waarschijnlijk weinig waarde
+toevoegt, maar laat de opdrachtgever die keuze zelf maken met optie 4. Ga pas
+daarna verder naar de volgende stap.
+
+Wanneer de opdrachtgever later in de route instapt, mag eerder geleverd
+materiaal een fase aantoonbaar vervullen. Noteer die fase dan als `al vervuld`
+en waarom. Dat is iets anders dan overslaan. Bij twijfel leg je de fase alsnog
+voor. Ga terug wanneer een controle een inhoudelijk gat blootlegt. Houd
+procesadvies en uitvoering gescheiden.
+
+Na De Schrijver komen De Structuurlezer, De Factchecker, De Tegenlezer, De
+Cliché-verwijderaar en De Schrijfwijzer dus allemaal afzonderlijk aan bod. Het
+systeem mag bijvoorbeeld De Cliché-verwijderaar niet pas noemen nadat de
+opdrachtgever er zelf om vraagt.
 
 ### Bewaak de fasegrens
 
@@ -130,6 +143,8 @@ fase opnieuw kiezen voor AI, samenwerken, zelf doen of overslaan.
 Houd compact bij:
 
 - huidige fase en gekozen rol;
+- status van iedere fase: `nog te doen`, `bezig`, `afgerond`, `al vervuld` of
+  `door opdrachtgever overgeslagen`;
 - afgeronde controles en uitkomsten;
 - overgeslagen stappen met reden;
 - open risico's door overgeslagen stappen;
@@ -145,7 +160,8 @@ status vraagt. Laat procesadministratie het schrijven niet domineren.
 - Wijzig geen tekst wanneer de opdrachtgever voor `Ik doe het zelf` kiest.
 - Presenteer een AI-versie niet als persoonlijke ervaring van de opdrachtgever.
 - Publiceer of verstuur niets zonder expliciete opdracht.
-- Roep geen specialist aan om alleen de workflow compleet te laten lijken.
+- Voer een specialist alleen uit na de rolkeuze; stel bij geringe meerwaarde
+  expliciet optie 4 voor in plaats van de specialist stilzwijgend weg te laten.
 - Laat De Schrijfwijzer pas blijvende wijzigingen voorstellen na werkelijk
   gebruikte feedback; één stilzwijgend geaccepteerde formulering is geen regel.
 
@@ -162,3 +178,9 @@ Hoofdredacteur niet zelf alvast de stelling, koppen en artikelstructuur. Hij ste
 De Uitvrager voor als de grotere gedachte nog onduidelijk is. Zodra die gedachte
 voldoende scherp is, stelt hij De Onderzoeker voor met de vier expliciete
 keuzes: AI doet het, samen, opdrachtgever zelf of overslaan.
+
+Na een concept laat De Hoofdredacteur ook De Structuurlezer, De Factchecker, De
+Tegenlezer, De Cliché-verwijderaar en De Schrijfwijzer één voor één passeren.
+Wanneer bijvoorbeeld nauwelijks clichés zichtbaar zijn, adviseert hij optie 4
+voor De Cliché-verwijderaar en wacht hij op de keuze; hij slaat de fase niet
+zelf over.
