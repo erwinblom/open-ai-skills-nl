@@ -17,10 +17,10 @@ Iedere skill is zelfstandig te gebruiken. Samen vormen de skills een werkproces.
 
 | Skill | Doel |
 |---|---|
-| [De Hoofdredacteur](skills/tekstploeg/de-hoofdredacteur/SKILL.md) | Begeleidt het hele proces en stelt steeds de zinvolste volgende stap en rolverdeling voor. |
+| [De Hoofdredacteur](skills/tekstploeg/de-hoofdredacteur/SKILL.md) | Kiest noodzakelijke stappen en begeleidt het traject samen met jou of zelfstandig op opdracht. |
 | [De Uitvrager](skills/tekstploeg/de-uitvrager/SKILL.md) | Werkt een eerste idee één vraag per keer uit tot een schrijfbrief. |
 | [De Onderzoeker](skills/tekstploeg/de-onderzoeker/SKILL.md) | Bouwt vóór het schrijven een herleidbaar dossier met bronnen, feiten, cijfers, citaten en tegenbewijs. |
-| [De Schrijver](skills/tekstploeg/de-schrijver/SKILL.md) | Maakt alleen of samen met de opdrachtgever een eerste versie. |
+| [De Schrijver](skills/tekstploeg/de-schrijver/SKILL.md) | Schrijft een eerste versie of verwerkt gebundelde redactiefeedback. |
 | [De Cliché-verwijderaar](skills/tekstploeg/de-cliche-verwijderaar/SKILL.md) | Verwijdert clichés, lege taal en voorspelbare AI-cadans zonder de stem van de schrijver kwijt te raken. |
 | [De Factchecker](skills/tekstploeg/de-factchecker/SKILL.md) | Controleert dragende claims tegen actuele bronnen en maakt bewijsgrenzen zichtbaar. |
 | [De Schrijfwijzer](skills/tekstploeg/de-schrijfwijzer/SKILL.md) | Optimaliseert schrijfregels op basis van werkelijk gebruikte feedback en versies. |
@@ -44,6 +44,10 @@ mij kiezen: doe het voor mij, doe het met mij, ik doe het zelf of sla deze stap
 over.
 ```
 
+Wil je het traject uitbesteden, voeg dan toe: **“Voer de noodzakelijke stappen
+zelfstandig uit; vraag alleen bij ontbrekend materiaal of wezenlijke inhoudelijke
+keuzes.”** De vier rolkeuzes blijven beschikbaar voor begeleid werken.
+
 Zie [De complete Tekstploeg gebruiken](docs/installeren.md#de-complete-tekstploeg-gebruiken)
 voor ChatGPT Work, Codex, Claude Code en gewone chattools.
 
@@ -51,9 +55,9 @@ voor ChatGPT Work, Codex, Claude Code en gewone chattools.
 
 | Stap | Skill | Resultaat |
 |---|---|---|
-| 1 | [De Kansverkenner](skills/innovatieploeg/de-kansverkenner/SKILL.md) | Drie concrete businesskansen en een eerste keuze. |
+| 1 | [De Kansverkenner](skills/innovatieploeg/de-kansverkenner/SKILL.md) | Maximaal drie concrete businesskansen en een eerste keuze. |
 | 2 | [De Aannamejager](skills/innovatieploeg/de-aannamejager/SKILL.md) | De riskantste aannames en een testvolgorde. |
-| 3 | [De Klantverkenner](skills/innovatieploeg/de-klantverkenner/SKILL.md) | Een synthetische perspectiefstresstest en echte onderzoeksvragen. |
+| 3 | [De Klantverkenner](skills/innovatieploeg/de-klantverkenner/SKILL.md) | Richting uit virtuele klantperspectieven en gerichte tests met echte klanten. |
 | 4 | [De Eerste-versiebouwer](skills/innovatieploeg/de-eerste-versiebouwer/SKILL.md) | De kleinste bruikbare versie; een artefact als de gebruikte agent kan bouwen. |
 | 5 | [De Bewijsweger](skills/innovatieploeg/de-bewijsweger/SKILL.md) | Een besluit op basis van echte resultaten: doorgaan, aanpassen, opnieuw testen of stoppen. |
 
@@ -179,3 +183,10 @@ Verbeteringen en nieuwe voorbeelden zijn welkom. Lees [CONTRIBUTING.md](CONTRIBU
 MIT. Je mag de skills gebruiken, aanpassen en verspreiden. Zie [LICENSE](LICENSE).
 
 Gemaakt door [Erwin Blom](https://github.com/erwinblom).
+
+## Kwaliteit toetsen
+
+[De gedragstests](tests/README.md) bevatten acht vaste opdrachten voor beide
+ploegen. Ze toetsen beslissingen en bruikbare resultaten naast de controle op
+bestanden en metadata. Een geslaagde structuurcontrole is geen bewijs van goed
+skillgedrag.

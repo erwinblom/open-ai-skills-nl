@@ -129,6 +129,19 @@ def main() -> int:
             if not (skill_dir / relative).is_file():
                 errors.append(f"{skill_file}: ontbrekende referentie {relative}")
 
+    # Plugin installation and manual installation must receive the same instructions.
+    canonical = SKILLS_ROOT / "tekstploeg"
+    mirror = ROOT / "plugins" / "de-tekstploeg" / "skills"
+    for source in sorted(canonical.rglob("*")):
+        if not source.is_file():
+            continue
+        target = mirror / source.relative_to(canonical)
+        if not target.is_file() or source.read_bytes() != target.read_bytes():
+            errors.append(f"{target}: plugin wijkt af van de skillbron {source}")
+    for target in sorted(mirror.rglob("*")):
+        if target.is_file() and not (canonical / target.relative_to(mirror)).is_file():
+            errors.append(f"{target}: pluginbestand ontbreekt in de skillbron")
+
     for markdown_file in sorted(ROOT.rglob("*.md")):
         text = markdown_file.read_text(encoding="utf-8")
         for target in MARKDOWN_LINK_RE.findall(text):

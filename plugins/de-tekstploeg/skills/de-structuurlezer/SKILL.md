@@ -7,7 +7,7 @@ description: Leest Nederlandse conceptteksten op hoofdlijn, volgorde en redeneri
 
 ## Rolkeuze
 
-Laat de opdrachtgever vóór deze fase kiezen:
+Gebruik de gekozen rol, of laat de opdrachtgever bij onduidelijke samenwerking kiezen:
 
 1. **Doe het voor mij:** analyseer de volledige tekst en lever het
   Structuurrapport zonder de bron te wijzigen.
@@ -18,10 +18,13 @@ Laat de opdrachtgever vóór deze fase kiezen:
 4. **Sla deze stap over:** ga verder zonder structuurcontrole en noteer welke
   twijfel over hoofdlijn, volgorde of redenering openblijft.
 
-Een antwoord met alleen `1`, `2`, `3` of `4` geldt als een volledige keuze. Een
-eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit af met advies
-voor de volgende stap en laat de opdrachtgever daar opnieuw de rol kiezen.
-Toon daarbij opnieuw dezelfde genummerde opties.
+Een antwoord met alleen `1`, `2`, `3` of `4` geldt als een volledige keuze.
+Een duidelijke opdracht tot uitvoering kiest optie 1 voor deze fase; vraag dat
+niet opnieuw. In begeleide modus geldt die keuze alleen voor deze fase. Adviseer
+na afloop hooguit één noodzakelijke volgende stap en laat daar de rol kiezen.
+Is het hele traject expliciet zelfstandig uitbesteed, werk dan binnen die
+opdracht door zonder opnieuw vier keuzes te stellen. Onderbreek bij ontbrekend
+dragend materiaal of een wezenlijke inhoudelijke keuze buiten de opdracht.
 
 ## Doel
 
@@ -62,11 +65,15 @@ Vraag niet automatisch om ontbrekende context. Leid de vermoedelijke hoofdlijn
 voorzichtig af uit de tekst en benoem onzekerheid wanneer meerdere hoofdlijnen
 even aannemelijk zijn.
 
-Gebruik geen externe bron, persoonlijke schrijfwijzer of projectcontext tenzij de gebruiker die expliciet als beoordelingscontext meegeeft. Als de aangeleverde tekst ontbreekt of onleesbaar is, stop dan en vraag alleen om de tekst.
+Gebruik de binnen deze opdracht afgesproken doel-, publiek- en projectcontext.
+Laat stijlvoorkeuren geen nieuwe inhoudelijke bedoeling opleggen. Zoek voor een
+structuurlezing geen externe feiten tenzij de gebruiker ook onderzoek vraagt. Als de aangeleverde tekst ontbreekt of onleesbaar is, stop dan en vraag alleen om de tekst.
 
 ### Verwachte output
 
-Lever één `Structuurrapport` met:
+Gebruik bij een korte tekst alleen hoofdlijn, het eventuele concrete probleem
+en de prioriteit; sla lege rapportonderdelen over. Bij een langere tekst:
+lever één `Structuurrapport` met:
 
 - de zichtbare hoofdlijn in maximaal twee zinnen;
 - maximaal vijf passagegebonden signalen, elk ingedeeld als `Dwaalspoor`, `Volgordeprobleem`, `Redeneringsgat` of `Dubbel werk`;
@@ -91,7 +98,9 @@ De structuurlezing is klaar wanneer:
 - Wijzig geen aangeleverde tekst, bestand of publicatie tijdens de structuurlezing.
 - Behandel feitelijke twijfel, zinsstijl en vermoedelijke publieksreactie niet als structuurprobleem.
 - Verzin geen bedoeling, ontbrekende redeneringsstap of nieuwe inhoud.
-- Geef pas een oplossingsvoorstel wanneer de gebruiker daar na het rapport om vraagt.
+- Geef een gericht oplossingsvoorstel zodra de gebruiker dat vraagt, ook als
+  analyse en oplossing in dezelfde opdracht staan. Wijzig geen bronbestand
+  wanneer alleen een voorstel is gevraagd.
 - Behandel bij stapsgewijze samenwerking één signaal per keer en wacht op `j` of `n` voordat de werkversie verandert.
 - Publiceer, verstuur of sla niets extern op zonder een afzonderlijke expliciete opdracht.
 
@@ -198,7 +207,8 @@ Een open einde is geen probleem wanneer het duidelijk een bewuste functie heeft.
 
 ## Uitvoer
 
-Begin met de kop `# Structuurrapport`.
+Gebruik voor een langere tekst het onderstaande format; een korte tekst krijgt
+geen leeg of herhaald rapport om dit format te volgen.
 
 ## Hoofdlijn
 
@@ -236,7 +246,7 @@ problemen zijn, schrijf exact:
 ## Geen automatische herschrijving
 
 Herschrijf, verplaats of schrap geen tekst tijdens de structuurlezing. Geef geen
-volledig nieuw schema. Wanneer de gebruiker daarna om een oplossing vraagt:
+volledig nieuw schema. Wanneer de gebruiker om een oplossing vraagt, meteen of na het rapport:
 
 - behandel één gekozen signaal tegelijk;
 - toon het relevante origineel;
@@ -271,6 +281,6 @@ Minimale regressietest:
 ## Onderhoud
 
 - Eigenaar: Erwin Blom
-- Laatst gecontroleerd: 2026-08-13
-- Opnieuw beoordelen: 2026-11-13
+- Instructies herzien: 2026-10-08
+- Opnieuw beoordelen na nieuwe gedragstests of aantoonbare praktijkfouten
 - Vervroegde herziening wanneer: twee structuurlezingen achter elkaar stijl, feiten of publieksreacties als structuurprobleem behandelen, of de bron zonder akkoord wijzigen.

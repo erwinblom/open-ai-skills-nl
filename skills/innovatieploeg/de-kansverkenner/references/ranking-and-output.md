@@ -28,8 +28,8 @@ Gebruik deze volgorde:
 
 1. Zoekveld en aannames.
 2. Belangrijkste signalen.
-3. Drie kansgebieden.
-4. Drie concrete kansen in een vergelijkende tabel.
+3. Maximaal drie kansgebieden.
+4. Maximaal drie concrete kansen in een vergelijkende tabel.
 5. Beste kans met kleinste bruikbare versie.
 6. Belangrijkste afwijzingsreden.
 7. Eerste echte test.
@@ -45,7 +45,7 @@ Gebruik deze volgorde:
 4. Signaalclusters en kansgebieden.
 5. Portfolio van concrete kansen.
 6. Rangschikking met argumenten en bewijsniveau.
-7. Uitwerking van de drie sterkste kansen.
+7. Uitwerking van de overtuigende kansen, maximaal drie.
 8. Tegenargumenten, afhankelijkheden en faalroutes.
 9. Eerste tests en onderzoeksagenda.
 10. Advies: nu doen, volgen of afwijzen.

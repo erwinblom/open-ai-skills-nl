@@ -7,7 +7,7 @@ Houd het rapport bij voorkeur rond één pagina en gebruik deze volgorde:
 1. Titel, onderzoeksvorm en duidelijke melding dat het virtuele feedback betreft.
 2. Korte beschrijving van het geteste concept en eventuele aannames.
 3. Vier compacte gesimuleerde perspectieven met mogelijke reactie en belangrijkste bezwaar.
-4. Belangrijkste hypothese uit de stresstest.
+4. Bruikbaarste voorlopige richting en het argument ervoor.
 5. Eerste doelgroep om echt te onderzoeken.
 6. Onderdeel dat als eerste een echte test verdient.
 7. Grootste zwakte.
@@ -15,7 +15,7 @@ Houd het rapport bij voorkeur rond één pagina en gebruik deze volgorde:
 9. Mogelijke wijzigingen om te testen.
 10. Belangrijkste onbewezen aannames.
 11. Eerstvolgende echte klanttest.
-12. Voorlopige onderzoeksprioriteit in één of twee zinnen, zonder marktoordeel.
+12. Voorlopige aanbeveling, bepalende scenario-aanname en eerstvolgende echte toets.
 
 Gebruik tabellen alleen wanneer ze een vergelijking duidelijker maken. Geef geen lange gesprekstranscripten.
 
@@ -27,7 +27,7 @@ Zet beslisinformatie vooraan:
 2. Onderzoeksvraag, scope, aannames en beperkingen.
 3. Samenstelling van de synthetische perspectieven en motivatie.
 4. Bevindingen per onderzoeksvraag.
-5. Terugkerende synthetische signalen, mogelijke segmentverschillen, alternatieve verklaringen en open aannames.
+5. Virtuele richtingssignalen, mogelijke segmentverschillen, alternatieve verklaringen en open aannames.
 6. Gebruikssituaties, huidige oplossingen en concurrentie met niets doen.
 7. Koop-, adoptie- en vertrouwensdrempels.
 8. Mogelijke klanttaal en positionering.

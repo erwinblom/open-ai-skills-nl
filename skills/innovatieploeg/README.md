@@ -16,7 +16,10 @@ Maakt zichtbaar wat waar moet zijn. Rangschikt aannames op impact en onzekerheid
 
 ### 3. De Klantverkenner
 
-Genereert verschillende virtuele klantperspectieven om een concept te stresstesten. De reacties komen uit hetzelfde AI-systeem en leveren dus geen onafhankelijk patroon of marktvalidatie op. De waarde zit in mogelijke bezwaren, scenario's en betere vragen voor echte klanten.
+Geeft bruikbare voorlopige richting met virtuele klantperspectieven: welke
+gebruikssituatie, propositie of bezwaar verdient aandacht? Adviseert een
+richting en een echte vervolgtest. Die richting komt uit scenario's en
+argumenten, niet uit waargenomen koop- of gebruiksgedrag.
 
 ### 4. De Eerste-versiebouwer
 
@@ -48,3 +51,11 @@ Meer context helpt. Geef waar mogelijk doelgroep, huidige oplossing, beschikbare
 De eerste drie stappen kunnen veel denkwerk versnellen. Echt bewijs ontstaat pas wanneer passende mensen werkelijk iets doen: materiaal aanleveren, een resultaat gebruiken, terugkomen, intern toestemming organiseren of betalen.
 
 Gebruik [het vijfstappenwerkboek](../../examples/innovatieploeg-werkboek.md) om de uitkomst van iedere stap zonder verlies door te geven aan de volgende.
+
+## Behoud aannames en criteria
+
+Elke skill geeft dezelfde korte beslisnotitie door. Aannames houden hun
+aanduiding, bijvoorbeeld A1; testcriteria blijven in hun oorspronkelijke vorm
+beschikbaar. Wijzigingen worden zichtbaar vastgelegd. Houd virtuele
+richtingssignalen, echte waarnemingen en het productbesluit apart. Spreek voor
+de volgende stap een passende grens af in tijd, geld of aantal gebruikers.

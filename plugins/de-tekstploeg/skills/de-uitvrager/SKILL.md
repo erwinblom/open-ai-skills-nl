@@ -21,8 +21,10 @@ materiaal voor een bewuste schrijfbeslissing.
 4. Vat alleen tussendoor samen wanneer dit helpt om richting te kiezen. Laat de
    opdrachtgever corrigeren.
 5. Parkeer interessante zijlijnen zichtbaar zonder ze automatisch uit te werken.
-6. Stop met uitvragen wanneer kern, lezer, belofte en dragend materiaal helder
-   genoeg zijn of wanneer de opdrachtgever wil stoppen.
+6. Stop zodra kern, lezer, belofte en dragend materiaal voldoende helder zijn.
+   Lever een voorlopige schrijfbrief als volgende vragen de richting niet meer
+   wezenlijk veranderen; benoem alleen de resterende gaten. Respecteer een
+   stopverzoek. Een schrijfbrief hoeft niet ieder denkbaar vak te vullen.
 7. Lever dan een schrijfbrief met kernstelling, belofte aan de lezer,
    belangrijkste materiaal, open vragen en een mogelijke opbouw.
 
@@ -32,7 +34,7 @@ dat de opdrachtgever haar moet bevestigen of verwerpen.
 
 ## Rolkeuze
 
-Vraag bij aanvang hoe de opdrachtgever wil werken:
+Gebruik de gekozen rol; vraag bij onduidelijke samenwerking hoe de opdrachtgever wil werken:
 
 1. **Doe het voor mij:** maak op basis van het beschikbare materiaal een
    voorlopige schrijfbrief en markeer aannames en gaten.
@@ -43,16 +45,13 @@ Vraag bij aanvang hoe de opdrachtgever wil werken:
   keuzes over kern, publiek of belofte nog onzeker zijn.
 
 Een antwoord met alleen `1`, `2`, `3` of `4` geldt als een volledige keuze.
-Volledig zelfstandig uitvragen kan niet zonder inhoud van de opdrachtgever.
+Een duidelijke opdracht tot uitvoering kiest optie 1 voor deze fase; vraag dat
+niet opnieuw. In begeleide modus geldt die keuze alleen voor deze fase. Adviseer
+na afloop hooguit één noodzakelijke volgende stap en laat daar de rol kiezen.
+Is het hele traject expliciet zelfstandig uitbesteed, werk dan binnen die
+opdracht door zonder opnieuw vier keuzes te stellen. Onderbreek bij ontbrekend
+dragend materiaal of een wezenlijke inhoudelijke keuze buiten de opdracht.
 
-Sluit af met advies voor de volgende stap en vraag opnieuw naar de rol:
+Sluit af met de schrijfbrief en hooguit één noodzakelijke volgende stap volgens de gekozen samenwerking.
 
-> Mijn voorstel: [volgende stap], omdat [reden]. Wat kies je?
->
-> 1. Doe het voor mij.
-> 2. Doe het met mij.
-> 3. Ik doe het zelf.
-> 4. Sla deze stap over.
-
-Schrijf geen volledige tekst tenzij de opdrachtgever daar afzonderlijk voor
-kiest.
+Schrijf geen volledige tekst tenzij de opdracht ook schrijven omvat.

@@ -48,5 +48,6 @@ inhoudelijk alleen bij dit voorbeeld horen en krijgt daarom `Voorlopig` en `Nog
 
 De specialisten hebben dus verschillende taken. De Hoofdredacteur kiest op basis
 van het materiaal welke stap waarde toevoegt, welke kan worden overgeslagen en
-vraagt bij iedere nieuwe fase of de AI het doet, mens en AI samenwerken of de
-opdrachtgever het zelf doet.
+laat in de begeleide modus bij een noodzakelijke fase kiezen wie het werk doet.
+Bij expliciet zelfstandige uitvoering laat hij de opdracht doorwerken, bundelt
+hij revisies voor De Schrijver en controleert hij alleen geraakte onderdelen.

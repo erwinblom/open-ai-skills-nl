@@ -1,6 +1,6 @@
 {
   "name": "de-tekstploeg",
-  "version": "1.0.0+codex.20260903080251",
+  "version": "1.1.0",
   "description": "Negen Nederlandse schrijfskills die een tekst begeleiden van eerste idee tot publiceerbare versie en leerpunten.",
   "author": {
     "name": "Erwin Blom",
@@ -19,7 +19,7 @@
   "interface": {
     "displayName": "De Tekstploeg",
     "shortDescription": "Van eerste idee tot tekst die leert van feedback",
-    "longDescription": "De Hoofdredacteur kiest steeds de zinvolste volgende schrijfstap. Jij bepaalt per fase of de AI het doet, jullie samenwerken, jij het zelf doet of de stap wordt overgeslagen.",
+    "longDescription": "De Hoofdredacteur kiest noodzakelijke schrijfstappen. Werk begeleid met vier rolkeuzes, of besteed het traject expliciet zelfstandig uit. Bevindingen worden gebundeld tot één revisieronde.",
     "developerName": "Erwin Blom",
     "category": "Productivity",
     "capabilities": [

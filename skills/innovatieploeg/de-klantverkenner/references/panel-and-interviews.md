@@ -49,4 +49,4 @@ Gebruik bij diepgaand onderzoek eventueel een tweede ronde om:
 - prijs of invoering te onderzoeken;
 - tegenstrijdige signalen te verdiepen.
 
-Pas perspectieven niet achteraf aan om een gewenste uitkomst te krijgen. Gebruik reacties alleen om echte vragen en tests te ontwerpen.
+Pas perspectieven niet achteraf aan om een gewenste uitkomst te krijgen. Gebruik de argumenten voor een voorlopige propositie of productrichting en om echte vragen en tests te ontwerpen. Vermeld van welke scenario-aannames die richting afhangt; behandel virtuele reacties niet als waargenomen klantgedrag.

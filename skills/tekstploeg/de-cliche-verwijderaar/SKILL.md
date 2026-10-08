@@ -7,7 +7,7 @@ description: Herken en verwijder clichés, versleten metaforen, lege formulering
 
 ## Rolkeuze
 
-Laat de opdrachtgever vóór deze fase kiezen:
+Gebruik de gekozen rol, of laat de opdrachtgever bij onduidelijke samenwerking kiezen:
 
 1. **Doe het voor mij:** bewerk de volledige tekst volgens deze skill en toon de
   bruikbare eindversie met alleen wezenlijke toelichting.
@@ -18,10 +18,13 @@ Laat de opdrachtgever vóór deze fase kiezen:
 4. **Sla deze stap over:** behoud de huidige formulering en noteer dat taal,
   clichés en mogelijke AI-cadans niet afzonderlijk zijn gecontroleerd.
 
-Een antwoord met alleen `1`, `2`, `3` of `4` geldt als een volledige keuze. Een
-eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit af met een
-kort advies voor de volgende stap en laat de opdrachtgever daar opnieuw de rol
-kiezen met dezelfde genummerde opties.
+Een antwoord met alleen `1`, `2`, `3` of `4` geldt als een volledige keuze.
+Een duidelijke opdracht tot uitvoering kiest optie 1 voor deze fase; vraag dat
+niet opnieuw. In begeleide modus geldt die keuze alleen voor deze fase. Adviseer
+na afloop hooguit één noodzakelijke volgende stap en laat daar de rol kiezen.
+Is het hele traject expliciet zelfstandig uitbesteed, werk dan binnen die
+opdracht door zonder opnieuw vier keuzes te stellen. Onderbreek bij ontbrekend
+dragend materiaal of een wezenlijke inhoudelijke keuze buiten de opdracht.
 
 Maak een tekst concreter en oorspronkelijker zonder hem gladder, literairder of nadrukkelijk grappiger te maken. Behoud de stem van de schrijver en verander alleen wat de tekst werkelijk verzwakt.
 
@@ -52,7 +55,7 @@ Markeer alleen passages die één of meer van deze problemen hebben:
 - gestapelde korte fragmentzinnen;
 - algemene openings- of slotzin;
 - herhaling zonder functie;
-- taal die vermoedelijk door AI is gladgestreken;
+- taal die de eigen stem door algemene formuleringen vervangt;
 - beeldspraak die niet past of intern botst.
 
 Lees [references/herkenningskaart.md](references/herkenningskaart.md) bij een grondige bewerking, een lange zakelijke tekst of twijfel over functionele vaste taal.
@@ -103,6 +106,10 @@ Gebruik **Licht** als standaard: verwijder duidelijke clichés en lege taal, beh
 Gebruik **Grondig** wanneer de gebruiker daarom vraagt of wanneer de tekst sterk leunt op algemene formuleringen: herschik waar nodig, maak claims concreter en doorbreek voorspelbare cadans. Blijf binnen de beschikbare feiten.
 
 ## Kwaliteitsregels
+
+- Beoordeel taal op betekenis, ritme en effect. Een patroon bewijst niet dat AI
+  de auteur was; deze skill is geen AI-detector. Bewust gebruikte herhaling,
+  eenvoudige taal en een functionele tegenstelling mogen blijven.
 
 - Behoud betekenis, feiten en onzekerheid.
 - Behoud bewust gebruikte vaktermen.

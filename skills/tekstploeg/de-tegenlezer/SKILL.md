@@ -1,13 +1,13 @@
 ---
 name: de-tegenlezer
-description: Lees Nederlandse teksten kritisch tegen en test redenering, bewijs, structuur, duidelijkheid, aannames, tegenargumenten, geloofwaardigheid en mogelijke weerstand bij het publiek. Gebruik deze skill voor artikelen, essays, opiniestukken, voorstellen, strategieën, plannen, presentaties, nieuwsbrieven en webteksten vóór publicatie of besluitvorming. Gebruik hem ook om blinde vlekken, onbewezen claims, ontbrekende vragen en ongewenste interpretaties te vinden zonder automatisch de positie of stem van de schrijver over te nemen of de tekst volledig te herschrijven.
+description: Test Nederlandse conceptteksten op redelijke lezersbezwaren, blinde vlekken en mogelijke mislezingen vóór publicatie of besluitvorming; levert gerichte reparaties zonder automatisch te herschrijven.
 ---
 
 # De Tegenlezer
 
 ## Rolkeuze
 
-Laat de opdrachtgever vóór deze fase kiezen:
+Gebruik de gekozen rol, of laat de opdrachtgever bij onduidelijke samenwerking kiezen:
 
 1. **Doe het voor mij:** voer de tegenlezing uit en lever een geprioriteerd
   rapport met de kleinste geloofwaardige reparaties.
@@ -18,12 +18,25 @@ Laat de opdrachtgever vóór deze fase kiezen:
 4. **Sla deze stap over:** ga verder zonder tegenlezing en noteer welk mogelijk
   lezersrisico daardoor niet is onderzocht.
 
-Een antwoord met alleen `1`, `2`, `3` of `4` geldt als een volledige keuze. Een
-eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit af met advies
-voor de volgende stap en laat de opdrachtgever daar opnieuw de rol kiezen.
-Toon daarbij opnieuw dezelfde genummerde opties.
+Een antwoord met alleen `1`, `2`, `3` of `4` geldt als een volledige keuze.
+Een duidelijke opdracht tot uitvoering kiest optie 1 voor deze fase; vraag dat
+niet opnieuw. In begeleide modus geldt die keuze alleen voor deze fase. Adviseer
+na afloop hooguit één noodzakelijke volgende stap en laat daar de rol kiezen.
+Is het hele traject expliciet zelfstandig uitbesteed, werk dan binnen die
+opdracht door zonder opnieuw vier keuzes te stellen. Onderbreek bij ontbrekend
+dragend materiaal of een wezenlijke inhoudelijke keuze buiten de opdracht.
 
 Lees als een betrokken maar onafhankelijke buitenstaander. Zoek wat de schrijver zelf gemakkelijk mist. Wees concreet, eerlijk en proportioneel; maak van kleine stijlvoorkeuren geen inhoudelijke bezwaren.
+
+## Grens met andere rollen
+
+Concentreer je op redelijke bezwaren, ontbrekende belangen en mogelijke
+mislezingen. Gebruik beschikbare structuur- en factcheckbevindingen; herhaal
+geen complete controle zonder aanleiding. Een nieuw mogelijk feiten- of
+structuurprobleem mag je signaleren en gericht laten controleren. Geef een
+feitelijk oordeel alleen met passende bronnen en benoem ongecontroleerde claims.
+Perspectieven zijn denklenzen; voorspellingen over echte lezers blijven hypotheses.
+Als er geen bepalend bezwaar is, meld dat en verzin geen kritiek om het format te vullen.
 
 ## Werkwijze
 
@@ -120,7 +133,8 @@ Gebruik **Diepgaande tegenlezing** voor lange, gevoelige of besluitvormende teks
 - Geef geen kunstmatige balans wanneer het bewijs duidelijk één kant op wijst.
 - Val geen stropop aan; formuleer de sterkste redelijke tegenwerping.
 - Wees extra voorzichtig met medische, juridische, financiële en reputatiegevoelige claims.
-- Controleer actuele of betwistbare feiten bij betrouwbare bronnen wanneer nauwkeurigheid daarom vraagt. Kan de host geen bronnen openen, markeer de claim als ongeverifieerd en vraag om bronmateriaal.
+- Controleer een nieuw actueel of betwistbaar feit bij passende bronnen wanneer
+  het lezersbezwaar daarvan afhangt; verwijs anders gericht naar de Factchecker. Kan de host geen bronnen openen, markeer de claim als ongeverifieerd en vraag om bronmateriaal.
 - Noem wat sterk is en behouden moet blijven.
 - Herhaal dezelfde kritiek niet onder verschillende koppen.
 - Stel geen extra context voor die de tekst alleen langer maakt.

@@ -1,33 +1,47 @@
-# Onderzoeksvormen
+# Vormen van virtuele klantverkenning
 
-## Problem discovery
+Alle vormen hieronder gebruiken expliciete scenario-aannames. Ze leveren
+richting en vragen voor echte klanten, geen waargenomen ervaringen. Gebruik
+aangeleverde echte klantgegevens als basis wanneer die er zijn en houd die
+herkenbaar apart van de gesimuleerde verkenning.
 
-Onderzoek of het probleem herkenbaar, frequent en urgent is. Vraag naar recente gebeurtenissen, gevolgen, bestaande oplossingen en momenten waarop iemand niets deed. Presenteer de oplossing pas na de probleemverkenning.
+## Probleemverkenning
 
-## Concepttest
+Verken in welke situaties een probleem belangrijk kan zijn, welke alternatieven
+logisch zijn en wat de urgentie kan beperken. Maak vervolgens vragen naar
+recente gebeurtenissen en bestaande noodoplossingen voor echte klanten.
 
-Onderzoek of de doelgroep het idee begrijpt, er waarde in ziet en het kan plaatsen naast alternatieven. Vraag wat men denkt te krijgen, wanneer het bruikbaar zou zijn, wat onduidelijk is en wat gebruik tegenhoudt.
+## Conceptverkenning
 
-## Prototypefeedback
+Vergelijk hoe relevante perspectieven de belofte zouden kunnen begrijpen.
+Adviseer een helderdere voorlopige propositie en bepaal wat echt getoetst moet worden.
 
-Onderzoek een aangeleverd prototype, screenshot, flow of beschrijving. Laat deelnemers taken uitvoeren of hardop voorspellen wat ze zouden doen. Noteer verwarring, ontbrekende informatie, vertrouwensproblemen en afhaakmomenten.
+## Prototypeverkenning
 
-## Positioneringstest
+Lees een aangeleverd prototype, screenshot of flow vanuit concrete taken.
+Voorspel mogelijke verwarring en afhaakmomenten; presenteer dit niet als een
+uitgevoerde gebruikerstest. Lever opdrachten waarmee echte gebruikers die
+verwachting kunnen toetsen.
 
-Vergelijk proposities zonder meteen een winnaar uit te roepen. Onderzoek begrip, relevantie, geloofwaardigheid, onderscheid en gebruikte klanttaal. Wissel indien mogelijk de volgorde van varianten.
+## Positionering
 
-## Prijsverkenning
+Vergelijk proposities op begrip, relevantie, geloofwaardigheid en onderscheid.
+Adviseer een voorlopige richting als de argumenten verschillen. Veel gelijksoortige
+virtuele reacties zijn geen stemmen of marktbewijs voor de winnaar.
 
-Onderzoek referentieprijzen, budgetbron, beslisser, verwachte waarde en weerstand. Presenteer prijsreacties als indicaties. Virtuele klanten kunnen echte betalingsbereidheid niet aantonen.
+## Prijs en invoering
 
-## Adoptietest
-
-Onderzoek wat nodig is om het product te proberen, kopen, invoeren en blijven gebruiken. Neem bestaande gewoontes, toestemming, integraties, risico, tijd, vertrouwen en overstapkosten mee.
+Verken budgetrollen, referentieprijzen, overstapkosten en afhankelijkheden als
+scenario's. Echte aangeleverde prijsinformatie blijft apart. Ontwerp een toets
+van budget, gebruik of betaalgedrag; verzin geen betalingsbereidheid.
 
 ## Premortem
 
-Neem aan dat het product na zes of twaalf maanden niet wordt gebruikt. Laat deelnemers verklaren waarom. Zoek naar verkeerde doelgroepkeuze, lage urgentie, zwakke distributie, onduidelijke waarde, gewoontekracht, vertrouwen en betere alternatieven.
+Verken waarom het product na zes of twaalf maanden mogelijk niet wordt gebruikt.
+Kies bepalende faalroutes en vertaal die naar aanpassingen of echte tests.
 
 ## Combineren
 
-Combineer in een snelle scan hooguit twee vormen. Kies bij diepgaand onderzoek alleen vormen die de belangrijkste beslissing ondersteunen. Meer onderzoek is geen doel op zichzelf.
+Kies alleen vormen die de beslissing helpen nemen. Een snelle scan combineert
+hooguit twee vormen; extra perspectieven zijn alleen nuttig als zij nieuwe
+argumenten of situaties toevoegen.

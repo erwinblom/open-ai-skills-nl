@@ -18,7 +18,7 @@ Opdracht:
 
 ```text
 Gebruik De Kansverkenner. Doe een snelle verkenning op basis van de startinformatie.
-Geef drie kansen en adviseer welke we als eerste moeten onderzoeken.
+Geef maximaal drie overtuigende kansen en adviseer welke we als eerste moeten onderzoeken.
 ```
 
 Overdracht:
@@ -31,6 +31,7 @@ Huidig alternatief:
 Waarom nu:
 Mogelijke betaler:
 Grootste onbekende:
+Grens voor eerstvolgende stap (tijd, geld of gebruikers):
 Afgewezen kansen en reden:
 ```
 
@@ -46,13 +47,15 @@ Rangschik wat waar moet zijn en kies maximaal drie aannames voor echte tests.
 Overdracht:
 
 ```text
-Riskantste aanname:
+Riskantste aanname (vaste aanduiding, bijvoorbeeld A1):
 Impact als zij onwaar is:
 Bestaand bewijs:
 Bewijsgat:
 Kleinste geloofwaardige test:
 Ondersteunend gedragssignaal:
 Tegensprekend gedragssignaal:
+Oorspronkelijke beslisregel en testperiode:
+Wijzigingen met reden en datum (oorspronkelijke regel behouden):
 ```
 
 ## Stap 3 — Klantverkenner
@@ -61,13 +64,15 @@ Opdracht:
 
 ```text
 Gebruik De Klantverkenner als synthetische stresstest van deze kans en aannames.
-Zoek mogelijke bezwaren, segmentverschillen en alternatieve verklaringen.
+Geef een beargumenteerde voorlopige richting; zoek bezwaren, segmentverschillen
+en alternatieve verklaringen.
 Eindig met vragen en tests voor echte klanten. Claim geen validatie.
 ```
 
 Overdracht:
 
 ```text
+Voorlopige richting en bepalende scenario-aannames:
 Perspectieven die verschil kunnen maken:
 Mogelijke bezwaren:
 Mogelijke alternatieven:
@@ -97,7 +102,8 @@ Handmatig doen:
 Later:
 Schrappen:
 Opgeleverd artefact of leveringspakket:
-Succes-, herzienings- en stopsignalen:
+Oorspronkelijke succes-, herzienings- en stopsignalen:
+Meetwijze, eigenaar, noemer en benodigde begeleiding:
 ```
 
 ## Echte test
@@ -105,7 +111,8 @@ Succes-, herzienings- en stopsignalen:
 Voer nu de test uit. Verzamel gedrag, uitval, correcties, herhaling, betalingen en benodigde begeleiding. Virtuele reacties horen niet in dit bewijsregister.
 
 ```text
-Wie deed mee:
+Geteste aanname en oorspronkelijke criteria:
+Wie deed mee (noemer):
 Wat konden zij echt doen:
 Wat gebeurde er:
 Wie haakte af:
@@ -136,5 +143,6 @@ Aannames tegengesproken:
 Open aannames:
 Eerstvolgende beperkte stap:
 Wat we niet gaan doen:
+Grens voor volgende investering en heroverwegingsmoment:
 Eigenaar en datum:
 ```

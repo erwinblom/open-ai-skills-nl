@@ -2,8 +2,9 @@
 
 Een adaptieve schrijfploeg die van eerste idee tot volgende tekst kan begeleiden.
 De Hoofdredacteur stelt steeds de zinvolste vervolgstap voor. De opdrachtgever
-kiest per fase: `doe het voor mij`, `doe het met mij`, `ik doe het zelf` of
-`sla deze stap over`.
+kiest in de begeleide modus per noodzakelijke fase: `doe het voor mij`,
+`doe het met mij`, `ik doe het zelf` of `sla deze stap over`. Je kunt ook het
+hele traject expliciet zelfstandig laten uitvoeren.
 
 Installeer of deel voor deze volledige workflow alle negen skills uit deze map.
 De Hoofdredacteur kan een specialist alleen inzetten wanneer diens `SKILL.md`
@@ -59,10 +60,10 @@ deze tekst tegen actuele bronnen. Laat de tekst zelf ongewijzigd.
 
 ## De Tegenlezer
 
-Gebruik deze skill vóór publicatie of besluitvorming. De skill zoekt concrete risico's op misverstanden, irritatie en ongeloofwaardige claims vanuit vier lezerslenzen.
+Gebruik deze skill vóór publicatie of besluitvorming. De skill zoekt concrete risico's op misverstanden, irritatie en ongeloofwaardige claims vanuit maximaal drie relevante lezerslenzen.
 
 ```text
-Gebruik $de-tegenlezer. Lees dit voorstel tegen vanuit vier lezerslenzen.
+Gebruik $de-tegenlezer. Lees dit voorstel tegen vanuit maximaal drie relevante lezerslenzen.
 Herschrijf nog niets.
 ```
 
@@ -104,3 +105,17 @@ Gebruik niet automatisch alle stappen. Een bestaande heldere tekst hoeft niet
 langs De Uitvrager of De Schrijver. Een korte aankondiging zonder complexe claims
 kan rechtstreeks naar De Cliché-verwijderaar. De Schrijfwijzer heeft pas waarde
 wanneer er feedback, meerdere versies of een expliciete leerkeuze beschikbaar is.
+
+## Zelfstandig en reviseren
+
+```text
+Gebruik De Hoofdredacteur. Voer de noodzakelijke schrijf- en redactiestappen
+zelfstandig uit. Behoud mijn stem. Vraag alleen bij ontbrekend dragend materiaal
+of een wezenlijke inhoudelijke keuze. Publiceer niets.
+```
+
+De Hoofdredacteur controleert welke skills beschikbaar zijn, slaat onnodige
+stappen gemotiveerd over en bundelt bevindingen in één revisieopdracht voor
+De Schrijver. Alleen gewijzigde claims of opbouw worden opnieuw gecontroleerd.
+Een gerichte factcheck beoordeelt de geselecteerde claims in één tekstversie;
+het oordeel is geen algemene publicatiegarantie.

@@ -1,7 +1,7 @@
 interface:
   display_name: "De Tegenlezer"
-  short_description: "Test teksten op logica, bewijs en weerstand"
-  default_prompt: "Gebruik $de-tegenlezer om deze tekst kritisch te toetsen op redenering, bewijs, blinde vlekken en vragen van de lezer."
+  short_description: "Vind redelijke bezwaren en mogelijke mislezingen"
+  default_prompt: "Gebruik $de-tegenlezer om deze tekst te toetsen op redelijke lezersbezwaren, blinde vlekken en mogelijke mislezingen."
   icon_small: "./assets/icon.svg"
   icon_large: "./assets/icon.svg"
 policy:

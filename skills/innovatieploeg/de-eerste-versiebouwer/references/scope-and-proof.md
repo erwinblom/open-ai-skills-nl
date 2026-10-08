@@ -50,6 +50,8 @@ Pas na herhaald waarde-, gebruiks- en betaalbewijs onderzoeken of automatisering
 
 - **Doorgaan:** kernwaarde wordt gebruikt en de riskantste aanname krijgt duidelijk steun.
 - **Aanpassen:** waarde bestaat, maar doelgroep, flow, belofte of levering klopt nog niet.
+- **Opnieuw testen:** uitvoering of ontbrekende waarnemingen laten nog geen
+  eerlijk oordeel over de aanname toe.
 - **Stoppen:** het probleem is te zwak, gedrag blijft uit of de leveringslast maakt de kans onaantrekkelijk.
 
 Leg vooraf vast welk bewijs nodig is. Pas de maatstaf niet achteraf aan om het idee in leven te houden.

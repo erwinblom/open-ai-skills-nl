@@ -5,7 +5,7 @@
 Van zwak naar sterker:
 
 1. Eigen overtuiging of algemene marktclaim.
-2. Mening van een virtuele klant of bekende.
+2. Mening van een echte bekende zonder concreet gedrag.
 3. Hypothetische interesse of koopintentie.
 4. Beschrijving van recent relevant gedrag.
 5. Herhaald patroon bij meerdere passende echte klanten.
@@ -13,6 +13,10 @@ Van zwak naar sterker:
 7. Gebruik van een prototype in een realistische situatie.
 8. Terugkerend gebruik zonder actieve begeleiding.
 9. Betaling, contract of aantoonbare budgetbeslissing.
+
+Virtuele klantperspectieven staan buiten deze ladder. Ze geven bruikbare
+richting voor segmenten, bezwaren, proposities en testprioriteiten, maar
+veranderen de bewijsstatus van een klantaanname niet.
 
 De juiste bewijskracht hangt af van de fase en de beslissing. Een vroege verkenning vereist geen contract. Een grote bouwinvestering vraagt sterker bewijs dan enthousiaste gesprekken.
 

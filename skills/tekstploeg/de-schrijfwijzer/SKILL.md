@@ -7,7 +7,7 @@ description: Haalt herbruikbare lessen uit een Nederlandse schrijfronde door opd
 
 ## Rolkeuze
 
-Laat de opdrachtgever vóór deze fase kiezen:
+Gebruik de gekozen rol, of laat de opdrachtgever bij onduidelijke samenwerking kiezen:
 
 1. **Doe het voor mij:** vergelijk versies en feedback en lever concrete
   voorstellen voor de schrijfwijzer; wijzig de schrijfafspraken pas als dat in
@@ -21,10 +21,13 @@ Laat de opdrachtgever vóór deze fase kiezen:
 4. **Sla deze stap over:** rond het project af zonder schrijfregels te wijzigen en
   noteer alleen dat mogelijke lessen uit deze ronde niet zijn verwerkt.
 
-Een antwoord met alleen `1`, `2`, `3` of `4` geldt als een volledige keuze. Een
-eerdere rolkeuze geldt niet automatisch voor deze fase. Sluit na het leren
-af met genummerde keuzes om een nieuw schrijfproject te beginnen of het proces
-te stoppen.
+Een antwoord met alleen `1`, `2`, `3` of `4` geldt als een volledige keuze.
+Een duidelijke opdracht tot uitvoering kiest optie 1 voor deze fase; vraag dat
+niet opnieuw. In begeleide modus geldt die keuze alleen voor deze fase. Adviseer
+na afloop hooguit één noodzakelijke volgende stap en laat daar de rol kiezen.
+Is het hele traject expliciet zelfstandig uitbesteed, werk dan binnen die
+opdracht door zonder opnieuw vier keuzes te stellen. Onderbreek bij ontbrekend
+dragend materiaal of een wezenlijke inhoudelijke keuze buiten de opdracht.
 
 ## Doel
 
@@ -76,7 +79,8 @@ Lever standaard een `Leerredactierapport` met:
 1. **Wat veranderde:** maximaal vijf betekenisvolle verschillen;
 2. **Wat daarvan herbruikbaar is:** alleen lessen met zichtbare onderbouwing;
 3. **Waar de les thuishoort:** `Stem`, `Project`, `Werkwijze` of `Eenmalig`;
-4. **Voorgestelde regel:** kort, concreet en positief uitvoerbaar;
+4. **Voorgestelde regel:** kort, concreet en positief uitvoerbaar, met
+   toepassingsgebied en eventuele uitzondering;
 5. **Bewijs:** passages, feedback of herhaling waarop de regel rust;
 6. **Zekerheid:** `Sterk`, `Aannemelijk` of `Voorlopig`;
 7. **Te behouden voorbeeld:** hooguit drie passages die als positief voorbeeld
@@ -157,6 +161,11 @@ Als de gebruiker met bestanden werkt, adviseer deze verdeling:
 - procesafspraken in de relevante skill, route of werkwijze;
 - sterke goedgekeurde passages bij de voorbeelden, met voldoende context om te
   begrijpen wat ze aantonen.
+
+Vermeld bij iedere regel of die voor alle teksten, een kanaal, genre of alleen
+dit project geldt. Een citaat, campagne of bewuste retorische keuze kan een
+uitzondering rechtvaardigen. Vervang herhaalde verboden waar mogelijk door een
+positief voorbeeld. Toets een nieuwe regel ook op een tekst waar hij níét past.
 
 Voeg een nieuwe regel alleen toe wanneer een bestaande regel niet kan worden
 aangescherpt. Bewaar voorbeelden vanwege het gedrag dat ze tonen, niet vanwege

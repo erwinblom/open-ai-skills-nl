@@ -1,0 +1,50 @@
+[
+  {
+    "id": "T1",
+    "skill": "skills/tekstploeg/de-hoofdredacteur",
+    "request": "Gebruik De Hoofdredacteur. Voer de noodzakelijke redactiestappen zelfstandig uit op deze korte persoonlijke notitie. Mijn doel is een nuchtere tekst voor mijn eigen nieuwsbrief. Behoud mijn stem en publiceer niets. Tekst: \"Ik ben gisteren een uur gaan wandelen zonder telefoon. Eerst miste ik hem. Daarna zag ik hoeveel ik normaal langsloop. Dat uur wil ik vaker vrijmaken.\"",
+    "materials": {}
+  },
+  {
+    "id": "T2",
+    "skill": "skills/tekstploeg/de-factchecker",
+    "request": "Controleer gericht alleen de eerste twee claims van concept v2 hieronder tegen de officiële Python-documentatie. Laat de tekst ongewijzigd. Claim 1: Python-lijsten zijn veranderbaar. Claim 2: Python-tuples zijn onveranderbaar. De derde claim blijft buiten deze opdracht: 95 procent van de Nederlandse bedrijven gebruikt Python.",
+    "materials": {}
+  },
+  {
+    "id": "T3",
+    "skill": "skills/tekstploeg/de-schrijver",
+    "request": "Reviseer dit korte concept voor mij; stel niet opnieuw de rolkeuze. Behoud mijn ervaring en mijn nuchtere stem. Bundel de feedback waar mogelijk, maar verander mijn standpunt niet zonder mij. Concept: \"Ik liet een AI-tool mijn interview samenvatten. Het scheelde mij een halfuur. Toch las ik de opname nog terug, want twee namen klopten niet. Ik wil dit blijven proberen, met controle.\" Feedback redacteur A: \"Maak de opening korter en eindig met de conclusie dat AI menselijke controle overbodig maakt.\" Feedback redacteur B: \"Maak de opening korter en behoud de noodzaak van menselijke controle.\" Goedgekeurd stemvoorbeeld: \"Ik probeer het. Als het helpt, blijf ik het doen. Als het rommel oplevert, stop ik.\"",
+    "materials": {}
+  },
+  {
+    "id": "T4",
+    "skill": "skills/tekstploeg/de-schrijfwijzer",
+    "request": "Vergelijk deze versies en stel schrijfregels voor, maar wijzig of bewaar geen bestand. Eerste versie LinkedIn-post: \"AI is een gamechanger. Het festival Utrecht Leert Digitaal laat zien waarom.\" Eindversie: \"AI verandert hoe we ons werk voorbereiden. Het festival laat zien waarom.\" Mijn expliciete feedback: \"Op LinkedIn wil ik concreet benoemen wat verandert. In een letterlijk citaat mag gamechanger blijven. De festivalnaam stond al in de kop, daarom heb ik die in de alinea ingekort.\"",
+    "materials": {}
+  },
+  {
+    "id": "I1",
+    "skill": "skills/innovatieploeg/de-klantverkenner",
+    "request": "Ik wil kleine muziekpodia helpen met terugkerende administratie. Twee mogelijke proposities: A: een breed dashboard met alles voor het podium; B: iedere week een gecontroleerd overzicht van ontbrekende facturen. Er zijn nog geen echte klantgesprekken. Verken dit met virtuele klanten. Geef mij een duidelijke voorlopige richting, hun sterkste bezwaren en een kleine echte vervolgtest. Behandel de podiumsituaties als scenario's, niet als actuele marktfeiten.",
+    "materials": {}
+  },
+  {
+    "id": "I2",
+    "skill": "skills/innovatieploeg/de-bewijsweger",
+    "request": "Beoordeel onze pilot en adviseer een volgende stap. A1: kleine podia gebruiken zonder aansporing iedere week het overzicht van ontbrekende facturen. Vooraf vastgelegd: minstens 5 van 8 passende gebruikers gebruiken het overzicht in week 2 opnieuw zonder herinnering. Alle 8 kregen een werkend overzicht; er waren geen technische fouten. In week 2 gebruikten 2 gebruikers het opnieuw zonder herinnering, 3 alleen na twee herinneringen en 3 helemaal niet. Geen betalingen. Handmatige levering kostte ons 45 minuten per podium per week. Twee volhouders waren erg enthousiast. Mijn collega zegt: \"Gebruik 2 van de 2 enthousiaste gebruikers als criterium, dan is het geslaagd.\" Voor de volgende stap hebben we maximaal 4 uur en €100.",
+    "materials": {}
+  },
+  {
+    "id": "I3",
+    "skill": "skills/innovatieploeg/de-eerste-versiebouwer",
+    "request": "Bouw in je tijdelijke uitvoermap een kleine werkende lokale eerste versie: een HTML-pagina waarin een muziekpodium een factuurnummer en betaald/open kan invullen en daarna de open facturen ziet. Geen account, cloud, betalingen of automatische analytics. Browsergeheugen tijdens deze sessie volstaat; maak duidelijk dat sluiten de invoer wist. A1: een podium kan binnen twee minuten ontbrekende betalingen vinden. Testcriterium vooraf: 4 van 5 gebruikers voltooien de taak zonder hulp. De pilotleider noteert handmatig voltooiing, tijd, uitval en hulp. Lever het artefact en bewijs van je kernflowcontrole; publiceer niets.",
+    "materials": {}
+  },
+  {
+    "id": "I4",
+    "skill": "skills/innovatieploeg/de-aannamejager",
+    "request": "Kies de eerste test voor mijn idee: een wekelijks overzicht van ontbrekende facturen voor kleine podia. A1: vijf bereikbare podia willen daarvoor iedere week hun echte administratie aanleveren. Hiervoor bestaat alleen een positieve virtuele klantverkenning. A2: zij begrijpen ons logo. Een logotest duurt tien minuten, maar het logo kan later worden vervangen. Interviews over recent gedrag en een verzoek om een werkelijk administratief voorbeeld kosten drie uur. Ik kan maximaal vier uur besteden voordat ik beslis of ik ga bouwen. Geef testprioriteit en houd het bewijs per aanname zichtbaar.",
+    "materials": {}
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "testedAt": "2026-10-08T08:19:59.815Z",
+  "browser": "149.0.7827.55",
+  "artifact": "file:///private/tmp/skill-tests-innovatieploeg/facturen.html",
+  "kind": "Automatische browsercontrole; geen echte gebruikerstest",
+  "results": [
+    {
+      "check": "Begintoestand leeg",
+      "passed": true,
+      "observed": "0 ingevoerd · 0 betaald"
+    },
+    {
+      "check": "Lege invoer geweigerd",
+      "passed": true,
+      "observed": "Vul een factuurnummer in."
+    },
+    {
+      "check": "Kernflow: drie ingevoerd, alleen de twee open nummers zichtbaar",
+      "passed": true,
+      "observed": {
+        "rows": [
+          "POD-101Open",
+          "POD-103Open"
+        ],
+        "summary": "3 ingevoerd · 1 betaald"
+      }
+    },
+    {
+      "check": "Dubbele invoer geweigerd zonder lijstwijziging",
+      "passed": true,
+      "observed": "Dit factuurnummer is al ingevoerd. Gebruik een ander nummer."
+    },
+    {
+      "check": "Herladen wist alle invoer",
+      "passed": true,
+      "observed": "0 ingevoerd · 0 betaald"
+    },
+    {
+      "check": "Alleen betaalde invoer toont geen open nummers",
+      "passed": true,
+      "observed": "1 ingevoerd · 1 betaald"
+    },
+    {
+      "check": "Sluiten en opnieuw openen start leeg",
+      "passed": true,
+      "observed": "0 ingevoerd · 0 betaald"
+    },
+    {
+      "check": "Mobiel: kernflow en geen horizontale overloop",
+      "passed": true,
+      "observed": "3 ingevoerd · 1 betaald"
+    },
+    {
+      "check": "Geen JavaScriptfouten of externe netwerkverzoeken",
+      "passed": true,
+      "observed": {
+        "errors": [],
+        "external": []
+      }
+    }
+  ]
+}

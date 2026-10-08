@@ -56,6 +56,12 @@ mij kiezen: doe het voor mij, doe het met mij, ik doe het zelf of sla deze stap
 over.
 ```
 
+Wil je zelfstandige uitvoering, voeg toe: “Voer de noodzakelijke stappen
+zelfstandig uit; vraag alleen bij ontbrekend dragend materiaal of wezenlijke
+inhoudelijke keuzes.” Een expliciete opdracht tot één bewerking wordt meteen
+uitgevoerd. Alleen een opdracht voor het hele traject laat keuzes doorwerken
+naar volgende fasen.
+
 ### ChatGPT Work
 
 Er zijn twee praktische routes:

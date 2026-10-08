@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Open facturen</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #f4f4f3; color: #202020; font: 17px/1.5 system-ui, sans-serif; }
+    main { max-width: 680px; margin: 40px auto; padding: 28px; background: #fff; border: 1px solid #202020; }
+    h1 { margin: 0 0 12px; font-size: 34px; line-height: 1.1; }
+    h2 { margin: 28px 0 8px; font-size: 25px; }
+    p { margin: 0 0 16px; }
+    .notice { padding: 12px; border-left: 4px solid #c51d17; background: #f4f4f3; }
+    label { display: block; font-weight: 650; margin-bottom: 5px; }
+    input, select, button { font: inherit; width: 100%; padding: 10px 12px; border: 1px solid #202020; border-radius: 0; }
+    input, select { background: white; color: #202020; margin-bottom: 16px; }
+    button { background: #202020; color: white; cursor: pointer; font-weight: 650; }
+    :focus-visible { outline: 3px solid #c51d17; outline-offset: 3px; }
+    #message { min-height: 1.5em; margin-top: 10px; }
+    #summary { font-size: 15px; color: #454545; }
+    ul { padding: 0; list-style: none; margin: 0; }
+    li { display: flex; justify-content: space-between; gap: 16px; padding: 12px 0; border-top: 1px solid #aaa; overflow-wrap: anywhere; }
+    .status { white-space: nowrap; font-weight: 650; }
+    @media(max-width: 700px) { main { margin: 16px; padding: 20px; } h1 { font-size: 30px; } }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Open facturen</h1>
+  <p>Vul je facturen in en zie welke nog openstaan. Je stelt de betaalstatus zelf vast; deze pagina controleert geen betalingen.</p>
+  <p class="notice"><strong>Alleen voor deze sessie.</strong> Sluiten of herladen wist je invoer. Je gegevens worden niet verstuurd of opgeslagen.</p>
+  <form id="invoice-form" novalidate>
+    <label for="invoice-number">Factuurnummer</label>
+    <input id="invoice-number" name="invoice-number" type="text" maxlength="100" autocomplete="off" required placeholder="Bijvoorbeeld POD-101">
+    <label for="invoice-status">Betaalstatus</label>
+    <select id="invoice-status" name="invoice-status">
+      <option value="open">Open</option>
+      <option value="paid">Betaald</option>
+    </select>
+    <button type="submit">Voeg factuur toe</button>
+    <p id="message" role="status" aria-live="polite"></p>
+  </form>
+  <h2>Open facturen <span id="open-count">(0)</span></h2>
+  <p id="summary">0 ingevoerd · 0 betaald</p>
+  <p id="empty">Nog geen open facturen. Voeg hierboven een factuur toe.</p>
+  <ul id="open-invoices" aria-label="Lijst van open facturen"></ul>
+</main>
+<script>
+  const invoices = [];
+  const form = document.querySelector('#invoice-form');
+  const numberInput = document.querySelector('#invoice-number');
+  const statusInput = document.querySelector('#invoice-status');
+  const message = document.querySelector('#message');
+  const list = document.querySelector('#open-invoices');
+
+  function render() {
+    const open = invoices.filter(invoice => invoice.status === 'open');
+    const paidCount = invoices.length - open.length;
+    list.replaceChildren();
+    for (const invoice of open) {
+      const row = document.createElement('li');
+      const number = document.createElement('span');
+      number.textContent = invoice.number;
+      const status = document.createElement('span');
+      status.className = 'status';
+      status.textContent = 'Open';
+      row.append(number, status);
+      list.append(row);
+    }
+    document.querySelector('#open-count').textContent = `(${open.length})`;
+    document.querySelector('#summary').textContent = `${invoices.length} ingevoerd · ${paidCount} betaald`;
+    const empty = document.querySelector('#empty');
+    empty.hidden = open.length > 0;
+    empty.textContent = invoices.length === 0
+      ? 'Nog geen open facturen. Voeg hierboven een factuur toe.'
+      : 'Geen open facturen bij de ingevoerde nummers.';
+  }
+
+  form.addEventListener('submit', event => {
+    event.preventDefault();
+    const number = numberInput.value.trim();
+    if (!number) {
+      message.textContent = 'Vul een factuurnummer in.';
+      numberInput.setAttribute('aria-invalid', 'true');
+      numberInput.focus();
+      return;
+    }
+    if (invoices.some(invoice => invoice.number.toLowerCase() === number.toLowerCase())) {
+      message.textContent = 'Dit factuurnummer is al ingevoerd. Gebruik een ander nummer.';
+      numberInput.setAttribute('aria-invalid', 'true');
+      numberInput.focus();
+      return;
+    }
+    const status = statusInput.value;
+    invoices.push({ number, status });
+    numberInput.removeAttribute('aria-invalid');
+    render();
+    message.textContent = `Factuur ${number} toegevoegd als ${status === 'open' ? 'open' : 'betaald'}.`;
+    form.reset();
+    numberInput.focus();
+  });
+</script>
+</body>
+</html>
