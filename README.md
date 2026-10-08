@@ -1,4 +1,4 @@
-# Open-source AI Skills NL
+# Tekstploeg en Innovatieploeg
 
 Open-source Agent Skills in het Nederlands. Praktisch, kritisch en bedoeld om echt werk mee te doen. De kern volgt het open `SKILL.md`-formaat en is daardoor bruikbaar in meerdere AI-tools.
 
@@ -6,10 +6,10 @@ Dit is een onafhankelijk project van Erwin Blom en is niet gemaakt of uitgegeven
 
 > **De methode is gratis. De begeleiding maakt het verschil.**
 
-Deze repository bevat twee samenhangende collecties:
+Deze repository bevat twee zelfstandige producten:
 
-- **De Tekstploeg** helpt teksten scherper, helderder en geloofwaardiger maken.
-- **De Innovatieploeg** helpt organisaties van kans naar bewijs gaan.
+- **[Tekstploeg](skills/tekstploeg/README.md)**: negen AI-skills voor onderzoeken, schrijven en redigeren.
+- **[Innovatieploeg](skills/innovatieploeg/README.md)**: vijf AI-skills om ideeën uit te werken, aannames te testen en bewijs te wegen.
 
 Iedere skill is zelfstandig te gebruiken. Samen vormen de skills een werkproces.
 
