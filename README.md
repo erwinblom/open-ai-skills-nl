@@ -1,5 +1,9 @@
 # Tekstploeg en Innovatieploeg
 
+## Waarom ik dit deel
+
+Ik ben geen programmeur en geen designer. Met AI maak ik tools en skills die ik zelf nodig heb. Ik deel ze om te laten zien wat er nu mogelijk is, je enthousiast te maken en je op gang te helpen. Gebruik dit als vertrekpunt: bouw erop voort en maak het passend bij jouw werk, smaak en wensen.
+
 ## Mijn werkwijze, AI als bouwmaatje
 
 Ik bracht mijn manier van werken mee; met AI werkte ik de instructies uit. Dit is jouw vertrekpunt om een eigen ploeg samen te stellen. Verander vragen, rollen en stappen, probeer ze op echt werk en houd wat jou helpt. Geen heilige prompts. Wel graag de licentie en credits bewaren als je iets deelt. Een fout melden mag; zelf iets beters maken ook.
