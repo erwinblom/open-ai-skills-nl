@@ -1,5 +1,9 @@
 # Tekstploeg en Innovatieploeg
 
+## Mijn werkwijze, AI als bouwmaatje
+
+Ik bracht mijn manier van werken mee; met AI werkte ik de instructies uit. Dit is jouw vertrekpunt om een eigen ploeg samen te stellen. Verander vragen, rollen en stappen, probeer ze op echt werk en houd wat jou helpt. Geen heilige prompts. Wel graag de licentie en credits bewaren als je iets deelt. Een fout melden mag; zelf iets beters maken ook.
+
 Open-source Agent Skills in het Nederlands. Praktisch, kritisch en bedoeld om echt werk mee te doen. De kern volgt het open `SKILL.md`-formaat en is daardoor bruikbaar in meerdere AI-tools.
 
 Dit is een onafhankelijk project van Erwin Blom en is niet gemaakt of uitgegeven door OpenAI, Anthropic, Google, GitHub of Microsoft.
@@ -176,7 +180,7 @@ De skills zijn gratis te gebruiken en aan te passen. Voor teams die in korte tij
 
 ## Bijdragen
 
-Verbeteringen en nieuwe voorbeelden zijn welkom. Lees [CONTRIBUTING.md](CONTRIBUTING.md). Nieuwe skills horen een afgebakende taak uit te voeren en mogen niet grotendeels overlappen met bestaande skills.
+Trek gerust je eigen ploeg samen. Verbeteringen en nieuwe voorbeelden zijn welkom; terugdelen is vrijwillig. Lees [CONTRIBUTING.md](CONTRIBUTING.md). Nieuwe skills horen een afgebakende taak uit te voeren en mogen niet grotendeels overlappen met bestaande skills.
 
 ## Licentie
 
