@@ -10,6 +10,10 @@ Installeer of deel voor deze volledige workflow alle negen skills uit deze map.
 De Hoofdredacteur kan een specialist alleen inzetten wanneer diens `SKILL.md`
 beschikbaar is.
 
+## Waarom ik dit deel
+
+Ik ben geen programmeur en geen designer. Met AI maak ik tools en skills die ik zelf nodig heb. Ik deel ze om te laten zien wat er nu mogelijk is, je enthousiast te maken en je op gang te helpen. Gebruik dit als vertrekpunt: bouw erop voort en maak het passend bij jouw werk, smaak en wensen.
+
 ## De Hoofdredacteur
 
 Gebruik deze skill als ingang voor een volledig schrijfproject. Hij bepaalt waar
