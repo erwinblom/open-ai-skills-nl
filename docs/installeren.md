@@ -1,5 +1,9 @@
 # Skills installeren en gebruiken
 
+## Waarom ik dit deel
+
+Ik ben geen programmeur en geen designer. Met AI maak ik tools en skills die ik zelf nodig heb. Ik deel ze om te laten zien wat er nu mogelijk is, je enthousiast te maken en je op gang te helpen. Gebruik dit als vertrekpunt: bouw erop voort en maak het passend bij jouw werk, smaak en wensen.
+
 De kern van iedere skill is een gewone map met een `SKILL.md`. De bestanden in `agents/openai.yaml` voegen metadata toe voor OpenAI-producten, maar zijn niet nodig voor agents die alleen het open Agent Skills-formaat lezen.
 
 ## Kies eerst wat je nodig hebt
