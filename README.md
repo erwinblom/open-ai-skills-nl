@@ -13,7 +13,7 @@ Gratis · Open source · Werkt in meerdere AI-tools
 
 Dit is een onafhankelijk project van Erwin Blom en is niet gemaakt of uitgegeven door OpenAI, Anthropic, Google, GitHub of Microsoft.
 
-> **Dit is een half-product.** De skills werken zoals ze zijn, en ze zijn gemaakt om te veranderen. [Spring naar: maak je eigen ploeg](#maak-je-eigen-ploeg).
+> **Klaar voor gebruik, en te personaliseren.** De skills werken zoals ze zijn. Wil je ze naar je eigen hand zetten, dan kan dat ook. [Spring naar: maak je eigen ploeg](#maak-je-eigen-ploeg).
 
 > **De methode is gratis. De begeleiding maakt het verschil.**
 
