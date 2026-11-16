@@ -1,18 +1,6 @@
 # Tekstploeg en Innovatieploeg
 
-## Waarom ik dit deel
-
-Ik ben geen programmeur en geen designer. Met AI maak ik tools en skills die ik zelf nodig heb. Ik deel ze om te laten zien wat er nu mogelijk is, je enthousiast te maken en je op gang te helpen. Gebruik dit als vertrekpunt: bouw erop voort en maak het passend bij jouw werk, smaak en wensen.
-
-## Mijn werkwijze, AI als bouwmaatje
-
-Ik bracht mijn manier van werken mee; met AI werkte ik de instructies uit. Dit is jouw vertrekpunt om een eigen ploeg samen te stellen. Verander vragen, rollen en stappen, probeer ze op echt werk en houd wat jou helpt. Geen heilige prompts. Wel graag de licentie en credits bewaren als je iets deelt. Een fout melden mag; zelf iets beters maken ook.
-
-Open-source Agent Skills in het Nederlands. Praktisch, kritisch en bedoeld om echt werk mee te doen. De kern volgt het open `SKILL.md`-formaat en is daardoor bruikbaar in meerdere AI-tools.
-
-Dit is een onafhankelijk project van Erwin Blom en is niet gemaakt of uitgegeven door OpenAI, Anthropic, Google, GitHub of Microsoft.
-
-> **De methode is gratis. De begeleiding maakt het verschil.**
+**Open-source Agent Skills in het Nederlands.** Praktisch, kritisch en bedoeld om echt werk mee te doen. De kern volgt het open `SKILL.md`-formaat en is daardoor bruikbaar in meerdere AI-tools.
 
 Deze repository bevat twee zelfstandige producten:
 
@@ -20,6 +8,14 @@ Deze repository bevat twee zelfstandige producten:
 - **[Innovatieploeg](skills/innovatieploeg/README.md)**: vijf AI-skills om ideeën uit te werken, aannames te testen en bewijs te wegen.
 
 Iedere skill is zelfstandig te gebruiken. Samen vormen de skills een werkproces.
+
+Gratis · Open source · Werkt in meerdere AI-tools
+
+Dit is een onafhankelijk project van Erwin Blom en is niet gemaakt of uitgegeven door OpenAI, Anthropic, Google, GitHub of Microsoft.
+
+> **Klaar voor gebruik, en te personaliseren.** De skills werken zoals ze zijn. Wil je ze naar je eigen hand zetten, dan kan dat ook. [Spring naar: maak je eigen ploeg](#maak-je-eigen-ploeg).
+
+> **De methode is gratis. De begeleiding maakt het verschil.**
 
 ## De Tekstploeg
 
@@ -76,6 +72,30 @@ voor ChatGPT Work, Codex, Claude Code en gewone chattools.
 Een skill is een map met een `SKILL.md` en eventueel aanvullende referenties. Een compatibele AI-agent leest de beschrijving om te bepalen wanneer de skill nuttig is en gebruikt daarna de werkwijze uit het bestand.
 
 De skills bevatten geen eigen model, verborgen prompt of betaalde koppeling. Ze leggen een herhaalbare manier van werken vast. Lees de inhoud altijd voordat je een skill installeert.
+
+## Maak je eigen ploeg
+
+Ik bracht mijn manier van werken mee; met AI werkte ik de instructies uit. Dit is jouw vertrekpunt om een eigen ploeg samen te stellen. Verander vragen, rollen en stappen, probeer ze op echt werk en houd wat jou helpt. Geen heilige prompts. Wel graag de licentie en credits bewaren als je iets deelt. Een fout melden mag; zelf iets beters maken ook.
+
+Een skill is gewone tekst. Je past hem aan door `SKILL.md` te openen en te veranderen wat er staat. Programmeren hoeft niet.
+
+1. Maak een kopie van de skillmap en geef die een eigen naam.
+2. Verander één ding, bijvoorbeeld een vraag, een stap of de vorm van het resultaat.
+3. Probeer de skill op echt werk en vergelijk met het origineel.
+
+Of laat je AI het doen. Kopieer deze opdracht:
+
+> Dit is de skill [naam] uit de Tekstploeg of Innovatieploeg. Lees eerst AGENTS.md en de SKILL.md van deze skill. Ik wil hem aanpassen aan mijn werk: [één verandering]. Maak een kopie met een eigen naam, verander zo weinig mogelijk en laat het origineel staan. Leg uit wat je hebt veranderd en geef me een opdracht waarmee ik het verschil kan testen.
+
+**Ideeën, van makkelijk naar ambitieus:**
+
+1. Zet je eigen schrijfregels of huisstijl in De Schrijver.
+2. Geef De Tegenlezer vaste lezers die bij jouw publiek horen.
+3. Verander het resultaat van een skill, bijvoorbeeld van rapport naar korte lijst.
+4. Haal een rol weg die je nooit gebruikt, of voeg er een toe die je mist.
+5. Stel een ploeg samen voor een ander vak, zoals podcasts, offertes of onderwijs.
+
+[Bekijk een uitgewerkt voorbeeld: De Tegenlezer voor je eigen publiek](examples/eigen-skill-maken.md).
 
 ## Installeren zonder terminal
 
@@ -181,6 +201,10 @@ De installatie-instructies zijn gecontroleerd op **17 augustus 2026** aan de han
 De skills zijn gratis te gebruiken en aan te passen. Voor teams die in korte tijd tot een resultaat willen komen, is er een begeleide aanpak:
 
 **Innovatie in een dag** brengt één team rond één echte uitdaging van kans naar een testbare eerste versie. Daarna volgt echt klantonderzoek en kan De Bewijsweger bepalen wat de resultaten rechtvaardigen. [Open een issue](https://github.com/erwinblom/open-ai-skills-nl/issues) voor vragen over toepassing of begeleiding.
+
+## Waarom ik dit deel
+
+Ik ben geen programmeur en geen designer. Met AI maak ik tools en skills die ik zelf nodig heb. Ik deel ze om te laten zien wat er nu mogelijk is, je enthousiast te maken en je op gang te helpen. Gebruik dit als vertrekpunt: bouw erop voort en maak het passend bij jouw werk, smaak en wensen.
 
 ## Bijdragen
 
